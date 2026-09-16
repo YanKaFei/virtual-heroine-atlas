@@ -69,7 +69,7 @@ templates/   卡片格式、形象分析格式
 index/       ai-index.json，整个库的机器可读版
 query.py     命令行调取接口（只用标准库，无需安装）
 views/       两个 Obsidian Base 文件，用来浏览
-images/      133 张参考图（仅限测试用途，见文末免责协议）
+images/      133 张参考图（仅限测试用途）+ 出处署名 ATTRIBUTION.md
 DISCLAIMER.md  免责协议，中英日三语
 ```
 
@@ -191,6 +191,7 @@ python3 query.py --random 6 --fields id,factors
 角色形象版权属于各主播本人、其所属机构与角色设计者，**本仓库不主张任何权利**。
 
 **它们仅供本地研究与测试使用。** 请在使用后删除，或至少不要对外分发。
+每张图来自哪个站点，逐条列在 **[images/ATTRIBUTION.md](images/ATTRIBUTION.md)**。
 完整条款见文末，或直接读 **[DISCLAIMER.md](DISCLAIMER.md)**。
 
 ---

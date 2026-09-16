@@ -75,7 +75,7 @@ templates/   the card format and the look-analysis format
 index/       ai-index.json, the whole atlas as one machine-readable file
 query.py     CLI over that index (standard library only, nothing to install)
 views/       two Obsidian Base files for browsing
-images/      133 reference images (test use only, see the disclaimer)
+images/      133 reference images (test use only) + ATTRIBUTION.md
 DISCLAIMER.md  disclaimer, in Chinese, English and Japanese
 ```
 
@@ -201,7 +201,9 @@ Obsidian**, and are test material. Character designs belong to the streamers, th
 agencies and their artists. **This repository claims no rights over them.**
 
 **They are for local research and testing only.** Delete them after use, and do not
-redistribute them. Full terms below, or read **[DISCLAIMER.md](DISCLAIMER.md)**.
+redistribute them. Which site each image came from is listed in
+**[images/ATTRIBUTION.md](images/ATTRIBUTION.md)**.
+Full terms below, or read **[DISCLAIMER.md](DISCLAIMER.md)**.
 
 ---
 

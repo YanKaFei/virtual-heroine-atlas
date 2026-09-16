@@ -70,7 +70,7 @@ templates/   カード書式と人物像分析の書式
 index/       ai-index.json（資料庫全体の機械可読版）
 query.py     コマンドラインインターフェース（標準ライブラリのみ、インストール不要）
 views/       Obsidian Base ファイル 2 つ
-images/      参考画像 133 枚（テスト用途のみ。末尾の免責事項を参照）
+images/      参考画像 133 枚（テスト用途のみ）+ 出典 ATTRIBUTION.md
 DISCLAIMER.md  免責事項（中国語・英語・日本語）
 ```
 
@@ -195,6 +195,7 @@ python3 query.py --random 6 --fields id,factors
 キャラクターデザインを行った方に帰属します。**本リポジトリはいかなる権利も主張しません。**
 
 **ローカルでの研究・テスト用途に限ります。** 使用後は削除し、再配布しないでください。
+どの画像がどのサイト由来かは **[images/ATTRIBUTION.md](images/ATTRIBUTION.md)** に列挙しています。
 全文は **[DISCLAIMER.md](DISCLAIMER.md)** を参照してください。
 
 ---
