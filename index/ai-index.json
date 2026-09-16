@@ -77,7 +77,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, sharp realistic detail, natural lighting, warm cosy, gritty realism, historical accuracy",
     "palette": "#2F2837 黑长裙 ／ #353F71 裙内衬钴蓝 ／ #DCC0A5 金饰与腰封 ／ #9C8D98 银白发暗部 ／ #EEDFD9 肤色亮部 ／ #FDFDFC 背景抽样值"
    },
-   "card": ""
+   "card": "cards/A-SOUL/乃琳Queen.md"
   },
   {
    "id": "向晚大魔王",
@@ -119,7 +119,7 @@
     "negative": "oil impasto, classical composition, perspective depth, gritty texture, visible brushwork, impasto, painterly texture",
     "palette": "#BEBCE8 淡紫双马尾 ／ #583B68 深紫花饰与眼 ／ #9A88B5 紫色中间调 ／ #6642A6 花结与票面纹样 ／ #F6E6DF 肤色 ／ #FBF9F9 背景抽样值"
    },
-   "card": ""
+   "card": "cards/A-SOUL/向晚大魔王.md"
   },
   {
    "id": "嘉然Diana",
@@ -169,7 +169,7 @@
     "negative": "oil impasto, classical composition, perspective depth, gritty texture, visible brushwork, impasto, painterly texture",
     "palette": "#FDF9F6 白底 ／ #CDA797 灰棕发 ／ #A88B77 发阴影 ／ #A06C64 颊红／耳饰暗侧 ／ #503127 领结黑"
    },
-   "card": ""
+   "card": "cards/A-SOUL/嘉然Diana.md"
   },
   {
    "id": "珈乐Carol",
@@ -211,7 +211,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, sharp realistic detail, natural lighting, warm cosy, gritty realism, historical accuracy",
     "palette": "#323140 夹克深蓝黑 ／ #1D1C27 皮革最暗部 ／ #63627C 中间调蓝紫 ／ #B8A8E2 挑染与皮质束带 ／ #E2CECC 肤色中间调 ／ #FEFDFD 背景抽样值"
    },
-   "card": ""
+   "card": "cards/A-SOUL/珈乐Carol.md"
   },
   {
    "id": "贝拉kira",
@@ -253,7 +253,7 @@
     "negative": "oil impasto, classical composition, perspective depth, gritty texture, visible brushwork, impasto, painterly texture",
     "palette": "#A83534 上衣与靴的红 ／ #666588 头发蓝紫中间调 ／ #514B62 头发暗部 ／ #2B272D 裙与靴近黑 ／ #EEE0DD 肤色亮部 ／ #FEFDFD 背景抽样值"
    },
-   "card": ""
+   "card": "cards/A-SOUL/贝拉kira.md"
   },
   {
    "id": "Asaki大人",
@@ -297,9 +297,9 @@
    "prompt": {
     "positive": "playful anime girl avatar with a mischievous grin, dynamic half-body pose mid-dance, one hand raised, head and shoulders, casual streetwear with a bold accent accessory, anime cel shading, japanese animation cel, flat colour fill with hard-edged shadow blocks, clean line art, hand-painted background, neon as primary light source, wet reflective surfaces, volumetric fog, anamorphic bloom, harsh rim light, high contrast night, character-centred framing, eye-level, medium close-up, 50mm",
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, daylight, pastoral, rural, historical costume, watercolour, pastel, flat lighting, static stiff pose, shy downcast expression",
-    "palette": "#FFFFFF 背景白（本卡背景取样）／#C7A699 发灰褐 主色（image_analysis.py）／#F0E8D8 发亮部近米白（图上取样）／#F0C8D8 粉外套（图上取样）／#F8E8E0 肤色（图上取样）／#E8B0C8 瞳粉（图上取样）／#583860 瞳紫影（图上取样）／#100000 choker 黑（图上取样）"
+    "palette": "#FFFFFF 背景白（本卡背景取样）／#C7A699 发灰褐 主色（）／#F0E8D8 发亮部近米白（图上取样）／#F0C8D8 粉外套（图上取样）／#F8E8E0 肤色（图上取样）／#E8B0C8 瞳粉（图上取样）／#583860 瞳紫影（图上取样）／#100000 choker 黑（图上取样）"
    },
-   "card": ""
+   "card": "cards/B站-个人势/Asaki大人.md"
   },
   {
    "id": "hanser",
@@ -349,7 +349,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, dramatic clouds, high contrast, busy detail, urban scene",
     "palette": "#F3F1F1 背景白 ／ #946253 发褐 ／ #6F504D 深发影 ／ #583531 发根暗部 ／ #D8AD9F 肤色 ／ #2B4FA2 宝蓝点缀（领巾与发饰，图中所见）"
    },
-   "card": ""
+   "card": "cards/B站-个人势/hanser.md"
   },
   {
    "id": "shourei小N",
@@ -395,7 +395,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, dramatic clouds, high contrast, busy detail, urban scene",
     "palette": "#F3ECD8 背景米白 ／ #D7C8B8 浅暖灰（贝雷帽／猫毛的浅色块，按画面位置对应） ／ #34241B 近黑深棕（头发） ／ #48362C 发影 ／ #574537 发中间调 ／ #625456 灰紫过渡"
    },
-   "card": ""
+   "card": "cards/B站-个人势/shourei小N.md"
   },
   {
    "id": "一块电鹿板",
@@ -441,7 +441,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, muddy colour, soft gradient shading, glossy plastic toy look, oversaturated rainbow palette, busy background detail",
     "palette": "`#F8E6E2` 背景与受光皮肤亮部（46%，含背景）／`#D8A596` 暖赭橙 发与束带（14%）／`#33556A` 深青蓝 夹克衣身（13%）／`#B49488` 赭褐 发阴影（10%）／`#61616A` 深灰蓝 阴影与线稿中间调（10%）／`#0F2E4C` 近黑深蓝 轮廓最深处（7%）／琥珀橙（护目镜片）与正红（眼）为高饱和小件"
    },
-   "card": ""
+   "card": "cards/B站-个人势/一块电鹿板.md"
   },
   {
    "id": "亮_Sama",
@@ -487,7 +487,7 @@
     "negative": "invented hair colour, invented eye colour, invented signature costume, invented animal ears, invented wings, invented halo, photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, busy background detail",
     "palette": "`#191719` 近黑（黑上衣／黑角／黑手套，占比最大且确为角色色）／ `#9F979C` 银白长发中调 ／ `#5F5E63` 冷灰过渡 ／ `#DDDBDD` 发丝高光 ／ `#907169` 暖金红的少数采样 ／ 金纹、红宝石与红瞳：小面积暖色点缀，未入选主色表，不给色值"
    },
-   "card": ""
+   "card": "cards/B站-个人势/亮_Sama.md"
   },
   {
    "id": "傲慢的小肉包",
@@ -531,9 +531,9 @@
    "prompt": {
     "positive": "cute anime girl avatar wearing a gaming headset, relaxed confident gamer grin, hand raised in a casual thumbs-up, head and shoulders, anime cel shading, japanese animation cel, flat colour fill with hard-edged shadow blocks, clean line art, hand-painted background, diffused dawn haze, horizontal bands of light, mirror water reflection, almost no cast shadow, high saturation flat fills, fluorescent pink, bright cyan, lemon yellow, strong contrast, character-centred framing, eye-level, medium close-up, 50mm",
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, dramatic clouds, busy detail, urban scene, oil impasto, classical composition, perspective depth, gritty texture, moody desaturated palette",
-    "palette": "#D4A56F 金发 主色（image_analysis.py）／#F1DAA2 金发亮部（image_analysis.py）／#B28E6A 金发暗部（image_analysis.py）／#2898B8 青瞳与缎带（图上取样）／#40F0F8 发光青 高光（图上取样）／#C8E840 荧光黄绿 细描边与指甲（图上取样）／#382828 水手领与猫耳 深墨（图上取样）／#AE99A5 背景粉紫（image_analysis.py）"
+    "palette": "#D4A56F 金发 主色（）／#F1DAA2 金发亮部（）／#B28E6A 金发暗部（）／#2898B8 青瞳与缎带（图上取样）／#40F0F8 发光青 高光（图上取样）／#C8E840 荧光黄绿 细描边与指甲（图上取样）／#382828 水手领与猫耳 深墨（图上取样）／#AE99A5 背景粉紫（）"
    },
-   "card": ""
+   "card": "cards/B站-个人势/傲慢的小肉包.md"
   },
   {
    "id": "兰音Reine",
@@ -583,7 +583,7 @@
     "negative": "realistic shading, oil impasto, classical composition, perspective depth, gritty texture, visible brushwork, impasto, dramatic clouds, high contrast, busy detail, urban scene",
     "palette": "#DDDFE3 浅色区（天空／白兔／浅衣料） ／ #A296AA 灰紫 ／ #636A96 深蓝紫 ／ #A4ACCA 浅蓝紫 ／ #A5CADF 天蓝 ／ #DCA6AD 浅粉红"
    },
-   "card": ""
+   "card": "cards/B站-个人势/兰音Reine.md"
   },
   {
    "id": "冰糖IO",
@@ -629,7 +629,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, dramatic clouds, busy detail, urban scene, full body, wide shot, standing pose, feet visible",
     "palette": "#F8EBE3 浅米背景留白 ／ #5A302F 深褐发色 ／ #D3A39B 暖粉肤色 ／ #98655B 暖褐阴影 ／ #744948 深褐阴影 ／ 小面积青色天空作冷色出口"
    },
-   "card": ""
+   "card": "cards/B站-个人势/冰糖IO.md"
   },
   {
    "id": "呜米",
@@ -675,7 +675,7 @@
     "negative": "sharp detail, crisp edges, busy composition, saturated colour, bright daylight, dark shadows, tenebrism, heavy impasto, monochrome, gritty, cyberpunk, muted earth tones, realistic skin rendering, full body, wide shot, standing pose, feet visible",
     "palette": "#E9D8DA 柔焦浅灰粉底场（占比最大，非角色色）／ #D2AAB2 淡粉形影 ／ #B09EAD 灰紫形影 ／ #9E5768 深玫红（仅存的一处深色）／ #CEBAC5 中间过渡"
    },
-   "card": ""
+   "card": "cards/B站-个人势/呜米.md"
   },
   {
    "id": "咩栗",
@@ -721,7 +721,7 @@
     "negative": "dark shadows, tenebrism, harsh contrast, heavy impasto, monochrome, gritty, cyberpunk, muted earth tones, urban, industrial, neon, plastic, harsh lighting, modern technology, concrete, realistic skin rendering, full body, wide shot, standing pose, feet visible",
     "palette": "#EFE5E9 背景浅粉白场（66%，非角色色）／ #D6A7AB 暖粉肉色（角与皮肤）／ #FFFDFB 白色长发（靠明度而非色相成立）／ #A8AAC8 蓝蝴蝶结（全图唯一冷色，约 7%）／ #D7B5C7 粉紫过渡 ／ #F4C8B8 角部浅肉粉"
    },
-   "card": ""
+   "card": "cards/B站-个人势/咩栗.md"
   },
   {
    "id": "多多poi",
@@ -771,7 +771,7 @@
     "negative": "realistic shading, oil impasto, classical composition, perspective depth, gritty texture, restraint, muted palette, natural materials, realistic skin rendering, realistic body proportions, full body, wide shot, standing pose, feet visible",
     "palette": "#FCF0ED 背景米白粉平场（88%，非角色色）／ #E3A4A0 粉桃发色 ／ #F8CCBC 浅粉肤色 ／ #F87085 亮粉点睛（爱心与毛球）／ #A56368 深色线稿 ／ 小面积薄荷绿异色瞳作唯一冷色锚点"
    },
-   "card": ""
+   "card": "cards/B站-个人势/多多poi.md"
   },
   {
    "id": "夜车Azuya",
@@ -815,9 +815,9 @@
    "prompt": {
     "positive": "chaotic anime girl avatar with cybernetic android motifs, glowing circuit accents on the neck and cheek, wide-eyed mid-shout expression with a comically shocked face, one hand clutching the chest, head and shoulders, anime cel shading, japanese animation cel, flat colour fill with hard-edged shadow blocks, clean line art, hand-painted background, neon as primary light source, wet reflective surfaces, volumetric fog, anamorphic bloom, harsh rim light, high contrast night, cyan and magenta clash, amber accent for human warmth, deep black shadows, character-centred framing, eye-level, medium close-up, 50mm",
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, daylight, pastoral, rural, historical costume, watercolour, pastel, flat lighting, calm serene expression, static stiff pose",
-    "palette": "#E1D4EC 冷白 发与外套 主色（image_analysis.py）／#D0C0D8 发影 淡紫（图上取样）／#A6A0CF 淡紫 翻领与发梢（image_analysis.py）／#C9B7DC 浅紫 过渡（image_analysis.py）／#6362A4 夜色蓝紫 背景（image_analysis.py）／#D870A0 品红瞳 唯一点彩（图上取样）／#E8C0D0 瞳亮部（图上取样）／金饰面积极小（冠冕、描边、贝壳坠）"
+    "palette": "#E1D4EC 冷白 发与外套 主色（）／#D0C0D8 发影 淡紫（图上取样）／#A6A0CF 淡紫 翻领与发梢（）／#C9B7DC 浅紫 过渡（）／#6362A4 夜色蓝紫 背景（）／#D870A0 品红瞳 唯一点彩（图上取样）／#E8C0D0 瞳亮部（图上取样）／金饰面积极小（冠冕、描边、贝壳坠）"
    },
-   "card": ""
+   "card": "cards/B站-个人势/夜车Azuya.md"
   },
   {
    "id": "奶油-cream-",
@@ -863,7 +863,7 @@
     "negative": "photorealistic animal photography, photorealistic skin, western realistic rendering, 3d render, oily impasto, visible brushwork, muddy colour, soft gradient shading, gore, wound detail, horror realism, ornate rococo ornament, armour, historical costume, harsh sunlight",
     "palette": "浅粉白底／皮肤／白上衣 `#FBE3DE` 58.8%（最大占比项，是背景与大面积浅色，不是可当「角色主色」的单色）／粉发 `#F5ACAB` 27.9% ／肩颈肤色 `#FCC5B6` 4.9% ／颊侧粉高光 `#FBB7C4` 3.1% ／项圈正红 `#D74C4E` 3.1%（画面里最饱和的一块）／项圈与唇部暗部 `#A75861` 2.1%\n注意（非配色，是测量读法）：本图暗部溢出 0.00%、动态范围仅 138——它是高明调低对比，当成「低明调／压暗」会与画面相反"
    },
-   "card": ""
+   "card": "cards/B站-个人势/奶油-cream-.md"
   },
   {
    "id": "宴宁ccccc",
@@ -907,9 +907,9 @@
    "prompt": {
     "positive": "soft pastel anime idol girl avatar, elegant singer pose with one hand raised, head and shoulders, calm confident expression, anime cel shading, japanese animation cel, flat colour fill with hard-edged shadow blocks, clean line art, hand-painted background, diffused dawn haze, horizontal bands of light, mirror water reflection, almost no cast shadow, indigo prussian blue, vermilion red, ochre yellow, sumi black ink, washi paper cream, clean flat blocks, character-centred framing, eye-level, medium close-up, 50mm",
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, dramatic clouds, busy detail, urban scene, cast shadows, gradient mesh, western perspective, glow, bokeh, over-saturated neon",
-    "palette": "#615751 场景灰褐 主色（image_analysis.py，照片环境）／#8C7264 犬毛暖褐（image_analysis.py）／#A99688 亮部暖灰（image_analysis.py）／#473935 织毯深灰（image_analysis.py）／#9B8677 中灰（image_analysis.py）／#E86050 橙红抱枕（图上取样，高饱和暖色块）／本图无角色，角色色盘见第八段说明"
+    "palette": "#615751 场景灰褐 主色（，照片环境）／#8C7264 犬毛暖褐（）／#A99688 亮部暖灰（）／#473935 织毯深灰（）／#9B8677 中灰（）／#E86050 橙红抱枕（图上取样，高饱和暖色块）／本图无角色，角色色盘见第八段说明"
    },
-   "card": ""
+   "card": "cards/B站-个人势/宴宁ccccc.md"
   },
   {
    "id": "小只芋",
@@ -955,7 +955,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, busy background detail, permanent cat ears always visible, invented signature palette not present in the source text",
     "palette": "`#FAF0F0` 白底 + 白翅膀 + 白玩偶 + 白衣领的混合近白（占比最大，部分属角色）／ `#E7BAC4` 发色亮粉与猫耳粉 ／ `#D4AAAF` 发色中调粉灰 ／ `#AE999B` 暗部粉灰 ／ `#615A5C` 黑蝴蝶结与线稿深灰（承担识别）／ `#312A2D` 最重的一处深色 ／ 粉紫红瞳：面积过小未入选主色表，不给色值"
    },
-   "card": ""
+   "card": "cards/B站-个人势/小只芋.md"
   },
   {
    "id": "小狼XF_晓锋",
@@ -1001,7 +1001,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, muddy colour, soft gradient shading, dramatic action pose, dark night scene, busy background detail",
     "palette": "`#9AB2D0` 背景水与飞溅水雾（49%，背景为主）／`#D8D1DB` 灰银 发高光段（10%）／`#9D929D` 蓝灰 发中间调（11%）／`#5E5564` 深灰紫 发阴影与暗部（11%）／`#916F6C` 暖灰 皮肤中间调（11%）／`#576F91` 深蓝 背景水面深段（8%）／冰蓝（挑染与耳饰晶体）与淡黄（花瓣）为小面积点缀"
    },
-   "card": ""
+   "card": "cards/B站-个人势/小狼XF_晓锋.md"
   },
   {
    "id": "局长きょくちょ",
@@ -1047,7 +1047,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, busy background detail, invented signature costume outside the described set, extra accessories not in the source text",
     "palette": "`#CFF4B6` 背景与头像浅绿圆环（占比最大，非角色色）／ `#F9F6F1` 白底与荷叶领 ／ `#A9E492` 绿发主体 ／ `#8FD777` 发色亮部 ／ `#699E5B` 发色暗部 ／ `#080907` 线稿与睫毛黑"
    },
-   "card": ""
+   "card": "cards/B站-个人势/局长きょくちょ.md"
   },
   {
    "id": "彩虹酱哇",
@@ -1093,7 +1093,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, muddy colour, soft gradient shading, desaturated palette, single flat monochrome scheme, busy background detail",
     "palette": "`#F8DEEB` 背景与受光肤色／发根（63%，背景与角色同色相无法分开）／`#EBACDC` 粉 发与肤主调（24%）／`#A692E8` 淡紫 发梢渐层（9%）／`#9478DC` 蓝紫 发梢深段（2%）／`#DE9BAF` 粉灰 阴影（2%）／`#9D6BA4` 紫罗兰灰 过渡（1%）／异色瞳（一品红一蓝，面积过小未入主色槽）"
    },
-   "card": ""
+   "card": "cards/B站-个人势/彩虹酱哇.md"
   },
   {
    "id": "慕容云磊",
@@ -1139,7 +1139,7 @@
     "negative": "invented signature costume, invented hair colour, invented eye colour, invented animal ears, photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, busy background detail",
     "palette": "`#A19C9E` 灰调混合底场（占比最大，非角色色）／ `#E7E7E8` 窗格与墙面近白 ／ `#5C5555` 深色制服外套 ／ `#8A7470` 深褐发色 ／ `#B4B7C8` 浅蓝衬衫与蓝领带 ／ `#0F19A6` 标题字高饱和蓝（画面重音，非角色色）"
    },
-   "card": ""
+   "card": "cards/B站-个人势/慕容云磊.md"
   },
   {
    "id": "折原露露",
@@ -1183,9 +1183,9 @@
    "prompt": {
     "positive": "chinese-style anime girl avatar with a subtle long-neck giraffe motif (small horn-like hair ornaments, long slender neck line), flowing wide sleeves, composed defiant expression with chin slightly raised, head and shoulders, anime cel shading, japanese animation cel, flat colour fill with hard-edged shadow blocks, clean line art, hand-painted background, diffused dawn haze, horizontal bands of light, mirror water reflection, almost no cast shadow, monochrome ink with occasional pale ochre or blue wash, vermilion seal, generous negative space, character-centred framing, eye-level, medium close-up, 50mm",
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, dramatic clouds, high contrast, busy detail, urban scene, colourful, perspective, dense detail, photographic, western landscape, exaggerated cartoon animal muzzle",
-    "palette": "透明底 58.2%（image_analysis.py 读成 #000000 67%，为测量伪影）／#F0F0F0 白描边与字面 最大项（本卡剔透明区取样，约31%）／#F0D090 金橙 渐变（本卡取样，约12%）／#704020 深棕 描边（本卡取样）／#905030 棕（本卡取样）／#E0A060 橙（本卡取样）／#986040 暖棕（本卡取样）"
+    "palette": "透明底 58.2%（读成 #000000 67%，为测量伪影）／#F0F0F0 白描边与字面 最大项（本卡剔透明区取样，约31%）／#F0D090 金橙 渐变（本卡取样，约12%）／#704020 深棕 描边（本卡取样）／#905030 棕（本卡取样）／#E0A060 橙（本卡取样）／#986040 暖棕（本卡取样）"
    },
-   "card": ""
+   "card": "cards/B站-个人势/折原露露.md"
   },
   {
    "id": "月隐空夜",
@@ -1231,7 +1231,7 @@
     "negative": "invented hair colour, invented eye colour, invented signature costume, invented animal ears, invented wings, photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, busy background detail",
     "palette": "`#F3E8EF` 浅紫柔光背景与头顶亮晕（占比最大，非角色色）／ `#E3B1D0` 粉发亮部 ／ `#D79BB1` 粉发中调 ／ `#A06695` 粉发暗部 ／ `#A9A1DB` 浅紫蓝（眼睛与紫饰）／ `#66659D` 深紫蓝 ／ 青色翼形心发饰：高饱和点缀，面积过小未入选主色表，不给色值"
    },
-   "card": ""
+   "card": "cards/B站-个人势/月隐空夜.md"
   },
   {
    "id": "永雏塔菲",
@@ -1281,7 +1281,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, dystopian, grimy, neon, dark cyberpunk, post-apocalyptic, pollution, concrete brutalism, despair, full body, wide shot, standing pose, feet visible",
     "palette": "#F1DFE0 浅粉主调与背景亮部（72%，含大面积背景）／ #D4A7AC 粉灰发色与过渡 ／ #58596A 深藏青帽子（深色锚点）／ #4F9AE3 天蓝背景（6%）／ #8F701D 向日葵金黄（4%）／ #AD969A 中间灰粉"
    },
-   "card": ""
+   "card": "cards/B站-个人势/永雏塔菲.md"
   },
   {
    "id": "泠鸢yousa",
@@ -1331,7 +1331,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, dramatic clouds, high contrast, busy detail, urban scene",
     "palette": "#9D675A 暖褐发色 ／ #582921 朱红与深红 ／ #F9F0DA 暖白内层 ／ #313359 夜蓝背景 ／ #F9D7AC 灯光暖黄"
    },
-   "card": ""
+   "card": "cards/B站-个人势/泠鸢yousa.md"
   },
   {
    "id": "洛少爷",
@@ -1377,7 +1377,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, muddy colour, soft gradient shading, heavy contrast, aggressive action pose, busy background detail",
     "palette": "`#FBF9F9` 背景白与衣料亮部（60%，含大面积背景）／`#2B2B5B` 深蓝紫 衣身主调（13%）／`#554C6F` 灰紫 中间调（12%）／`#4A3967` 藏青紫 阴影层（6%）／`#070826` 近黑 最深阴影（5%）／`#656C8D` 蓝灰 过渡（5%）／青蓝自发光（耳／耳机／电路／眼瞳，主色统计中被白底摊薄）"
    },
-   "card": ""
+   "card": "cards/B站-个人势/洛少爷.md"
   },
   {
    "id": "生命幻象",
@@ -1423,7 +1423,7 @@
     "negative": "elaborate fantasy costume, ornate accessories, armour, wings, horns, heavy jewellery, dark studio backdrop, theatrical spotlight, high contrast rim light, oily impasto, western realistic rendering, 3d render, photorealistic skin",
     "palette": "背景 `#150F15` 黑底 50%（最大占比项，是背景不是角色色）／帽与白发 `#F0E6DB` 18% ／灰发暗部 `#645B5A` 15% ／肤色 `#F1D1A6` 6% ／灰发中间调 `#A89A99` 6% ／暖肤色 `#CFAE98` 6%\n角色侧配色（图中所见）：`#F0E6DB` 白帽 ／ `#645B5A` 灰褐发 ／ `#CFAE98` 与 `#F1D1A6` 肤色 ／ 异色瞳 青绿与金黄（本图未取到可靠单点 hex）／蓝紫格纹手套"
    },
-   "card": ""
+   "card": "cards/B站-个人势/生命幻象.md"
   },
   {
    "id": "神楽七奈",
@@ -1473,7 +1473,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, dramatic clouds, high contrast, busy detail, urban scene",
     "palette": "#EAEAF1 银白发与白底 ／ #AFB3C9 蓝紫发梢 ／ #DDA9A7 暖粉腮红 ／ #25242B 黑缎带锚点 ／ #B9C7DD 瞳色浅蓝"
    },
-   "card": ""
+   "card": "cards/B站-个人势/神楽七奈.md"
   },
   {
    "id": "穆小泠Official",
@@ -1519,7 +1519,7 @@
     "negative": "photorealistic skin, western realistic rendering, 3d render, oily impasto, visible brushwork, muted earth tones, muddy colour, soft gradient shading, intricate lace, gothic ornament, dark gloomy palette, shallow depth of field",
     "palette": "背景／银发浅粉白 `#F0E7E6` 65%（最大占比项，同时是背景与发色，不是可当「角色主色」的单色）／黑头巾与蕾丝 `#1D1316` 13% ／银发灰紫暗部 `#A097A3` 9% ／深红影与颈饰外圈 `#591C23` 6% ／灰紫中间调 `#63545B` 4% ／红玫瑰与蝴蝶结 `#9C1D28` 4%\n角色侧配色（图中所见）：`#9C1D28` 红玫瑰／耳内／蝴蝶结 ／ `#1D1316` 黑头巾与蕾丝 ／ `#F0E7E6` 银白长发 ／ 红瞳（本图未取到可靠单点 hex）／金色细长头饰"
    },
-   "card": ""
+   "card": "cards/B站-个人势/穆小泠Official.md"
   },
   {
    "id": "符瑶koritsu",
@@ -1565,7 +1565,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, busy background detail, invented signature palette not present in the source text",
     "palette": "`#ECE9EF` 近白／浅灰底（占比最大，非角色色）／ `#A39CAA` 银灰发色中调 ／ `#B7B6C9` 浅紫灰冷调反射 ／ `#C2BDCD` 发色亮部 ／ `#56525A` 深灰紫过渡 ／ `#2E2A30` 黑领带与胸前绑带（3%，承担识别）／ 紫瞳与金色菱形饰：面积过小未入选主色表，不给色值"
    },
-   "card": ""
+   "card": "cards/B站-个人势/符瑶koritsu.md"
   },
   {
    "id": "花园花玲",
@@ -1615,7 +1615,7 @@
     "negative": "realistic shading, oil impasto, classical composition, perspective depth, gritty texture, visible brushwork, impasto, dramatic clouds, high contrast, busy detail, urban scene",
     "palette": "#D5C9B1 暖米本体 ／ #120F0D 粗黑轮廓 ／ #A89E92 耳内浅米 ／ #FAFAF9 背景白（导出产物） ／ 亮黄星与粉腮红：局部小面积，未进入主色前列"
    },
-   "card": ""
+   "card": "cards/B站-个人势/花园花玲.md"
   },
   {
    "id": "诺子喵呜",
@@ -1659,9 +1659,9 @@
    "prompt": {
     "positive": "bright anime girl avatar, blue cat-girl motifs with soft rounded ears, a guide dog standing beside her, soft warm smile, head and shoulders, anime cel shading, japanese animation cel, flat colour fill with hard-edged shadow blocks, clean line art, hand-painted background, diffused dawn haze, horizontal bands of light, mirror water reflection, almost no cast shadow, character-centred framing, eye-level, medium close-up, 50mm",
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, dramatic clouds, high contrast, busy detail, urban scene, pity framing, dark oppressive palette",
-    "palette": "#F2EBD9 背景米底（本卡四角取样）／#B1D5F0 发浅蓝 主色（image_analysis.py）／#92B4DD 发影 蓝（image_analysis.py）／#718AA7 发最深与瞳暗部（image_analysis.py）／#F8B8B0 肤与腮红（图上取样）／#16226A 瞳深蓝（图上逐点取样）／#80BAFA 瞳亮青蓝（图上逐点取样）／#F8C8C8 耳内与粉色小鱼发夹（图中所见）"
+    "palette": "#F2EBD9 背景米底（本卡四角取样）／#B1D5F0 发浅蓝 主色（）／#92B4DD 发影 蓝（）／#718AA7 发最深与瞳暗部（）／#F8B8B0 肤与腮红（图上取样）／#16226A 瞳深蓝（图上逐点取样）／#80BAFA 瞳亮青蓝（图上逐点取样）／#F8C8C8 耳内与粉色小鱼发夹（图中所见）"
    },
-   "card": ""
+   "card": "cards/B站-个人势/诺子喵呜.md"
   },
   {
    "id": "铃乃Chan",
@@ -1707,7 +1707,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, muddy colour, soft gradient shading, busy background detail, urban night scene",
     "palette": "`#FAF1F6` 背景白与爱心亮部（82%，实为背景非角色色）／`#F6B2D0` 淡粉 角色强调（6%）／`#A29AA4` 灰紫 发阴影过渡（4%）／`#1F1C1E` 线稿与瞳孔深色（4%）／`#5F5B5E` 次级深灰（3%）／`#F9EDA2` 极浅黄 装饰（2%）"
    },
-   "card": ""
+   "card": "cards/B站-个人势/铃乃Chan.md"
   },
   {
    "id": "陆鳐LuLu",
@@ -1753,7 +1753,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, muddy colour, soft gradient shading, matte fabric, daylight sunny scene, busy background detail",
     "palette": "`#F2E4EA` 粉白发与肤色亮部 角色主调（64%）／`#A2E3F5` 淡青 挑染与全息件高光（7%）／`#E1A9DA` 粉紫 发色中段（6%）／`#262454` 深蓝紫 背景夜空（8%）／`#575169` 灰紫 环境中间调（9%）／`#626195` 蓝灰紫 过渡（5%）"
    },
-   "card": ""
+   "card": "cards/B站-个人势/陆鳐LuLu.md"
   },
   {
    "id": "鹿乃ちゃん",
@@ -1803,7 +1803,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, dark shadows, tenebrism, harsh contrast, heavy impasto, monochrome, gritty, cyberpunk, muted earth tones",
     "palette": "#B49594 灰褐发色 ／ #E39195 粉色背景 ／ #F2EDEA 白帽与白花 ／ #EC7587 酒红蝴蝶结 ／ #946766 发丝暗部"
    },
-   "card": ""
+   "card": "cards/B站-个人势/鹿乃ちゃん.md"
   },
   {
    "id": "七海Nana7mi",
@@ -1853,7 +1853,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, realistic lighting, chiaroscuro, sharp outlines, dramatic subject, photorealistic texture",
     "palette": "#684D51 暖褐（背景与头发，占比最大）／ #FBE6DD 浅暖米（肤色与上衣）／ #4C3536 近黑（蕾丝 choker 与发饰）／ #966861 中褐 ／ #D2AA99 灰棕"
    },
-   "card": ""
+   "card": "cards/B站-企业势/七海Nana7mi.md"
   },
   {
    "id": "小可学妹",
@@ -1899,7 +1899,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, subtle gradients, muted palette, photorealistic",
     "palette": "#FCE1E7 极浅粉（肤色／内搭，占比最大的单一色）／ #591C31 深品红（头发与背景）／ #9F4C6C 品红（外套）／ #8E3751 玫红 ／ #12050D 近黑（choker 与挑染发饰）／ #763549 酒红"
    },
-   "card": ""
+   "card": "cards/B站-企业势/小可学妹.md"
   },
   {
    "id": "白神遥Haruka",
@@ -1945,7 +1945,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, urban, industrial, neon, plastic, harsh lighting, modern technology, concrete, high contrast",
     "palette": "#F4E0E0 浅粉白（头发＋背景亮部，占比最大）／ #D7A3AB 樱粉（花瓣与颊部）／ #6F6F94 蓝紫（夜色窗格，背景）／ #302832 窗框暗部 ／ #998BA3 灰紫 ／ #DAB9C5 淡粉"
    },
-   "card": ""
+   "card": "cards/B站-企业势/白神遥Haruka.md"
   },
   {
    "id": "眞白花音",
@@ -1991,7 +1991,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, dark shadows, tenebrism, harsh contrast, heavy impasto, monochrome, gritty, cyberpunk, muted earth tones, horizontal composition, flat modern lighting, neon, digital, minimalism, casual contemporary setting",
     "palette": "#F6E4DE 浅暖白（背景亮部＋银白发，占比最大）／ #0C052D 近黑（大蝴蝶结、蕾丝、格子线）／ #DEA7A4 玫红（小蝴蝶结与颊部）／ #986070 深玫红（瞳色）／ #D1B6CA 淡紫粉 ／ #B0959D 灰玫"
    },
-   "card": ""
+   "card": "cards/B站-企业势/眞白花音.md"
   },
   {
    "id": "祖娅纳惜",
@@ -2041,7 +2041,7 @@
     "negative": "impasto, dramatic clouds, busy detail, flat even lighting, pastel colors, cartoon, cel shading, minimalism, clean digital look, anime, organic whiplash curves, art nouveau vines, soft watercolour, rustic wood, pastoral landscape, grunge texture",
     "palette": "#AE6349 暖珊瑚（背景，不可当角色色）／ #E9DBD8 白发 ／ #D6B09A 暖米（肤色）／ #E9C7B1 浅肤色 ／ #D1996E 橙棕 ／ 冷青蓝（瞳光／花饰／珠链／腰带，面积过小未进主色前六，取色请目视）"
    },
-   "card": ""
+   "card": "cards/B站-企业势/祖娅纳惜.md"
   },
   {
    "id": "菜菜子Nanako",
@@ -2091,7 +2091,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, dark shadows, tenebrism, harsh contrast, heavy impasto, monochrome, gritty, cyberpunk, muted earth tones, realistic lighting, photograph, gritty texture, dark horror, minimalism, neon cyberpunk",
     "palette": "#F6F5F5 纯白（背景，不可当角色色）／ #E1A0D7 粉品红（蝴蝶结与颊部）／ #A8A7D0 淡紫（挑染）／ #6E588E 深紫（马甲）／ #B8C6D1 冷灰蓝（白发暗部）／ #A6A5AC 中灰"
    },
-   "card": ""
+   "card": "cards/B站-企业势/菜菜子Nanako.md"
   },
   {
    "id": "阿梓从小就很可爱",
@@ -2141,7 +2141,7 @@
     "negative": "smooth gradient, anti-aliasing, blurry edges, high resolution detail, photorealistic, vector art, realistic shading, oil impasto, classical composition, perspective depth, gritty texture",
     "palette": "#F7EFEF 近白（背景像素招牌底色＋脸，占比最大）／ #AFADF6 藕荷紫（头发，与背景紫同色系）／ #D6A8F1 淡紫（头顶宝石徽章）／ #B59360 棕黄（背景招牌像素条）／ #55545E 深灰（像素描边）／ 黄橙（瞳色，面积小未进前六，取色请目视）"
    },
-   "card": ""
+   "card": "cards/B站-企业势/阿梓从小就很可爱.md"
   },
   {
    "id": "雫るる_Official",
@@ -2187,7 +2187,7 @@
     "negative": "photorealistic skin, western realistic rendering, 3d render, oily impasto, visible brushwork, soft gradient shading, muddy colour, angel wings, halo, ornate frills, magical girl costume, neon cyberpunk, dark gloomy palette, theatrical spotlight, high contrast",
     "palette": "白／浅粉白背景与银发 `#F1E9E7` 83.6%（最大占比项，是背景与大面积浅色，不是可当「角色主色」的单色）／发丝灰 `#A9A0A3` 6.6% ／深灰发影 `#675C5B` 4.5% ／偏紫浅灰（彩虹发夹与灰调）`#B3B1C4` 3.1% ／暖灰中间调 `#D4B7B5` 1.3% ／灰褐暗部 `#877673` 1.0%\n读法提醒：本图暗部溢出 0.00%、饱和度 0.059——低饱和银灰，任何「深色／阴郁」描述都与画面相反；高光溢出 4.32% 来自白背景与发丝高光的裁切（伪影性质）\n「有效色相 14.12」主要由左上那枚彩虹渐变蝴蝶发夹与粉色鼻头拉高，画面主体仍是低饱和灰紫"
    },
-   "card": ""
+   "card": "cards/B站-企业势/雫るる_Official.md"
   },
   {
    "id": "鲸鱼娘西丝特official",
@@ -2233,7 +2233,7 @@
     "negative": "photorealistic underwater photography, photorealistic skin, western realistic rendering, 3d render, oily impasto, visible brushwork, soft gradient shading, muddy colour, pastel-only palette, gore, tentacle horror realism, cute mascot proportions only, bright flat daylight, high-key evenly lit",
     "palette": "浅粉白背景／白发／白衣 `#F4E7E6` 88.0%（最大占比项，是背景与大面积浅色，不是可当「角色主色」的单色）／发丝与灰紫暗部 `#AA9E9D` 5.1% ／皮肤与发梢暗部 `#D9B3AA` 4.4% ／暖灰 `#DFC3B6` 0.9% ／灰紫中间调 `#906F6E` 0.9% ／黑项圈与最深暗部 `#695C61` 0.7%\n读法提醒：本图暗部溢出仅 0.11%，高光溢出 6.55% 主要来自浅粉白背景与白发高光的裁切（伪影性质），不是「强光打爆」；饱和度 0.086 为本批最低\n本图未兑现设定文字里的三套服装主色（修女服黑 + 橙、偶像服蓝紫、电玩魔法师紫）——那些属于另外三套服装，不能用来描述本图"
    },
-   "card": ""
+   "card": "cards/B站-企业势/鲸鱼娘西丝特official.md"
   },
   {
    "id": "花谱",
@@ -2283,7 +2283,7 @@
     "negative": "realistic shading, oil impasto, classical composition, perspective depth, gritty texture, photorealistic skin, soft gradient shading, oil painting texture, western realistic rendering, 3d render",
     "palette": "#F1F0F1 背景白块 ／ #EFA1AF 发粉 ／ #2B2551 背景深紫 ／ #1D1A2D 近黑 ／ #E65529 橙（背景与衣里共用）"
    },
-   "card": ""
+   "card": "cards/KAMITSUBAKI/花谱.md"
   },
   {
    "id": "AZKi",
@@ -2325,7 +2325,7 @@
     "negative": "3d render, realistic lighting, photograph, gritty texture, dark horror, minimalism, neon cyberpunk, flat even lighting, pastel colors, cartoon, cel shading, clean digital look, anime",
     "palette": "#8A9A5B 鼠尾草绿 ／ #D4A82A 芥末黄 ／ #B08D57 暗金 ／ #B08BA8 藕荷 ／ #2E6E7E 孔雀蓝 ／ #E8DCC8 米纸白"
    },
-   "card": ""
+   "card": "cards/hololive/AZKi.md"
   },
   {
    "id": "Anya Melfissa",
@@ -2371,7 +2371,7 @@
     "negative": "figurative subject, perspective, 3d render, cast shadows, asymmetry, organic hand-drawn wobble, photographic, plain background, mundane subject, modern clothing, stock photo, oversharpened",
     "palette": "#1F3A8A 青金蓝 ／ #2E8B8B 绿松石 ／ #B03A2E 砖红 ／ #E8DCC0 釉白 ／ #C9A227 金 ／ #1B4A3A 深绿"
    },
-   "card": " Melfissa.md"
+   "card": "cards/hololive/Anya Melfissa.md"
   },
   {
    "id": "Ayunda Risu",
@@ -2417,7 +2417,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, urban, industrial, neon, plastic, harsh lighting, modern technology, concrete, high contrast",
     "palette": "#F2C9A8 肤色 ／ #3A5A9B 制服蓝 ／ #E85D75 高光粉 ／ #F2E33D 亮黄 ／ #5FA85F 背景绿 ／ #1A1A1A 线稿黑"
    },
-   "card": " Risu.md"
+   "card": "cards/hololive/Ayunda Risu.md"
   },
   {
    "id": "Cecilia Immergreen",
@@ -2463,7 +2463,7 @@
     "negative": "modern technology, plastic, neon, minimalism, clean digital, contemporary clothing, flat design, organic whiplash curves, art nouveau vines, soft watercolour, rustic wood, pastoral landscape, grunge texture",
     "palette": "#B8860B 黄铜 ／ #4A7A6B 铜绿 ／ #5A3A2A 皮革棕 ／ #2B2B2B 煤烟灰 ／ #7A1F2B 天鹅绒红 ／ #C9A227 暖金"
    },
-   "card": " Immergreen.md"
+   "card": "cards/hololive/Cecilia Immergreen.md"
   },
   {
    "id": "Ceres Fauna",
@@ -2509,7 +2509,7 @@
     "negative": "3d render, realistic lighting, photograph, gritty texture, dark horror, minimalism, neon cyberpunk, urban, industrial, neon, plastic, harsh lighting, modern technology, concrete, high contrast",
     "palette": "#8A9A5B 鼠尾草绿 ／ #D4A82A 芥末黄 ／ #B08D57 暗金 ／ #B08BA8 藕荷 ／ #2E6E7E 孔雀蓝 ／ #E8DCC8 米纸白"
    },
-   "card": " Fauna.md"
+   "card": "cards/hololive/Ceres Fauna.md"
   },
   {
    "id": "Elizabeth Rose Bloodflame",
@@ -2555,7 +2555,7 @@
     "negative": "bright cheerful pastel, daylight beach, sports clothing, minimalist modern interior, saturated warm, casual, 3d render, photograph, gritty texture, dark horror, minimalism, neon cyberpunk",
     "palette": "#0F0F12 黑 ／ #6B1F2B 深红 ／ #3A2A4A 深紫 ／ #B8B8B8 银 ／ #E8E4DA 苍白 ／ #8B1A2A 血红"
    },
-   "card": " Rose Bloodflame.md"
+   "card": "cards/hololive/Elizabeth Rose Bloodflame.md"
   },
   {
    "id": "FUWAMOCO",
@@ -2601,7 +2601,7 @@
     "negative": "realistic shading, oil impasto, classical composition, perspective depth, gritty texture, photorealistic skin, soft gradient shading, oil painting texture, western realistic rendering, 3d render",
     "palette": "#F23D8E 荧光粉 ／ #29ABE2 亮蓝 ／ #F2E33D 柠檬黄 ／ #111111 轮廓黑 ／ #7B3FA0 紫 ／ #FFFFFF 平涂白"
    },
-   "card": ""
+   "card": "cards/hololive/FUWAMOCO.md"
   },
   {
    "id": "Gigi Murin",
@@ -2647,7 +2647,7 @@
     "negative": "visible brushwork, impasto, naturalistic shading, classical composition, painterly texture, photorealistic skin, soft gradient shading, oil painting texture, western realistic rendering, 3d render",
     "palette": "#F23D8E 荧光粉 ／ #F2C230 亮黄 ／ #29ABE2 青蓝 ／ #D32027 正红 ／ #111111 轮廓黑 ／ #FFFFFF 白"
    },
-   "card": " Murin.md"
+   "card": "cards/hololive/Gigi Murin.md"
   },
   {
    "id": "Hakos Baelz",
@@ -2693,7 +2693,7 @@
     "negative": "visible brushwork, impasto, naturalistic shading, classical composition, painterly texture, sharp realistic detail, natural lighting, warm cosy, hand-painted texture, gritty realism, historical accuracy",
     "palette": "#F23D8E 荧光粉 ／ #F2C230 亮黄 ／ #29ABE2 青蓝 ／ #D32027 正红 ／ #111111 轮廓黑 ／ #FFFFFF 白"
    },
-   "card": " Baelz.md"
+   "card": "cards/hololive/Hakos Baelz.md"
   },
   {
    "id": "IRyS",
@@ -2739,7 +2739,7 @@
     "negative": "flat lighting, pastel, minimalist, plain background, casual modern clothing, photographic, oversharpened, symmetry, calm daylight, neutral colour",
     "palette": "#6B0F4A 深品红 ／ #3A0A2A 暗紫 ／ #A8126B 亮品红 ／ #E8D7E0 淡紫白 ／ #1A1018 近黑紫 ／ #C0392B 正红"
    },
-   "card": ""
+   "card": "cards/hololive/IRyS.md"
   },
   {
    "id": "Kaela Kovalskia",
@@ -2785,7 +2785,7 @@
     "negative": "modern technology, plastic, neon, minimalism, contemporary clothing, flat design, even ambient lighting, pastel colours, cartoon, cel shading, comfortable composition, photorealistic skin, soft gradient shading, western realistic rendering, 3d render, muddy colour",
     "palette": "#B8860B 黄铜 ／ #C9A227 暖金 ／ #4A7A6B 铜绿 ／ #5A3A2A 皮革棕 ／ #2B2B2B 煤烟灰 ／ #7A1F2B 天鹅绒红"
    },
-   "card": " Kovalskia.md"
+   "card": "cards/hololive/Kaela Kovalskia.md"
   },
   {
    "id": "Kobo Kanaeru",
@@ -2831,7 +2831,7 @@
     "negative": "gritty grunge texture, dark dystopian mood, minimalist restraint, natural materials, vintage analogue warmth, visible brushwork, impasto, dramatic clouds, high contrast, busy detail, urban scene, realistic shading, oil impasto, classical composition, muted colour, perspective depth, gritty texture",
     "palette": "#29D6E8 亮蓝 ／ #C9CFD4 铬银 ／ #A8F23D 荧光绿 ／ #F23D8E 荧光粉 ／ #7B3FA0 全息紫 ／ #FFFFFF 白"
    },
-   "card": " Kanaeru.md"
+   "card": "cards/hololive/Kobo Kanaeru.md"
   },
   {
    "id": "Koseki Bijou",
@@ -2877,7 +2877,7 @@
     "negative": "3d render, realistic lighting, photograph, gritty texture, dark horror, minimalism, neon cyberpunk, dark shadows, tenebrism, harsh contrast, heavy impasto, monochrome, gritty, cyberpunk, muted earth tones, realistic shading, oil impasto, classical composition, perspective depth",
     "palette": "#D4A82A 芥末黄 ／ #8A9A5B 鼠尾草绿 ／ #B08D57 暗金 ／ #B08BA8 藕荷 ／ #2E6E7E 孔雀蓝 ／ #E8DCC8 米纸白"
    },
-   "card": " Bijou.md"
+   "card": "cards/hololive/Koseki Bijou.md"
   },
   {
    "id": "Kureiji Ollie",
@@ -2923,7 +2923,7 @@
     "negative": "bright cheerful pastel, daylight beach, sports clothing, minimalist modern interior, saturated warm, casual, even ambient lighting, pastel colours, cartoon, cel shading, comfortable composition, realistic shading, oil impasto, classical composition, muted colour, perspective depth, gritty texture",
     "palette": "#0F0F12 黑 ／ #6B1F2B 深红 ／ #8B1A2A 血红 ／ #3A2A4A 深紫 ／ #B8B8B8 银 ／ #E8E4DA 苍白"
    },
-   "card": " Ollie.md"
+   "card": "cards/hololive/Kureiji Ollie.md"
   },
   {
    "id": "Moona Hoshinova",
@@ -2969,7 +2969,7 @@
     "negative": "organic whiplash curves, art nouveau vines, rustic wood, pastoral landscape, grunge texture, perspective, realistic anatomy, 3d render, modern clothing, photographic, photorealistic skin, soft gradient shading, western realistic rendering, muddy colour",
     "palette": "#111111 黑漆 ／ #C9A227 金 ／ #B8B8B8 铬银 ／ #0F5C4A 祖母绿 ／ #7A1F2B 酒红 ／ #EDE3CE 象牙白"
    },
-   "card": " Hoshinova.md"
+   "card": "cards/hololive/Moona Hoshinova.md"
   },
   {
    "id": "Nanashi Mumei",
@@ -3015,7 +3015,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, even ambient lighting, pastel colours, cartoon, comfortable composition, high contrast, bright daylight, busy composition, crisp edges",
     "palette": "#2A565F 披风内衬暗青 ／ #B1968C 灰褐发色 ／ #503331 束身衣深棕 ／ #262428 靴与暗部近黑 ／ #F2E3DA 衬衫米白 ／ #6D5650 皮革棕"
    },
-   "card": " Mumei.md"
+   "card": "cards/hololive/Nanashi Mumei.md"
   },
   {
    "id": "Nerissa Ravencroft",
@@ -3061,7 +3061,7 @@
     "negative": "bright cheerful pastel, daylight beach, sports clothing, minimalist modern interior, casual, even ambient lighting, pastel colours, cartoon, cel shading, clean digital, comfortable composition, realistic daylight, photographic, mundane subject, modern clothing, stock photo, oversharpened",
     "palette": "#1F1F24 羽毛与毛皮的冷黑 ／ #515157 皮革灰黑 ／ #EAE2E5 衬衫与肤色 ／ #2D324C 发内靛蓝 ／ #5766DB 发梢亮蓝 ／ #9CA5DC 高光蓝"
    },
-   "card": " Ravencroft.md"
+   "card": "cards/hololive/Nerissa Ravencroft.md"
   },
   {
    "id": "Ouro Kronii",
@@ -3107,7 +3107,7 @@
     "negative": "organic whiplash curves, art nouveau vines, soft watercolour, rustic wood, pastoral landscape, organic detail, loose brushwork, romantic atmosphere, soft focus, curve, organic form, gradient, shading, pastel, diagonal line",
     "palette": "#1E30A4 大氅宝蓝 ／ #141C60 裙与暗部藏青 ／ #201F21 冷黑袜与上衣 ／ #555663 深灰蓝 ／ #E6E4E6 衬衫白 ／ #999AA9 银饰"
    },
-   "card": " Kronii.md"
+   "card": "cards/hololive/Ouro Kronii.md"
   },
   {
    "id": "Pavolia Reine",
@@ -3153,7 +3153,7 @@
     "negative": "organic whiplash curves, art nouveau vines, soft watercolour, rustic wood, pastoral landscape, grunge texture, visible brushwork, impasto, dramatic clouds, high contrast, busy detail, urban scene, realistic daylight, photographic, mundane subject, modern clothing, stock photo, oversharpened",
     "palette": "#EAEDEC 白色荷叶边与手套长袜 ／ #16529C 宝蓝抹胸与裙 ／ #5BDBEB 尾屏青 ／ #31CDEE 尾屏荧光青 ／ #A1E7E3 尾屏浅青 ／ #A99CA4 银紫发与肤色"
    },
-   "card": " Reine.md"
+   "card": "cards/hololive/Pavolia Reine.md"
   },
   {
    "id": "Raora Panthera",
@@ -3199,7 +3199,7 @@
     "negative": "oil impasto, classical composition, perspective depth, gritty texture, visible brushwork, impasto, painterly texture, tasteful restrained palette, symmetry, minimalism, natural materials, muted tones, classic elegance",
     "palette": "#ECE3E6 白色连体衣与长袜 ／ #E892AE 玫红发与外套亮部 ／ #D26D8F 玫红中间调 ／ #9E305A 深玫斑纹与暗部 ／ #534F56 束带皮革黑灰 ／ #A6A0AB 猫耳与投影灰"
    },
-   "card": " Panthera.md"
+   "card": "cards/hololive/Raora Panthera.md"
   },
   {
    "id": "Shiori Novella",
@@ -3245,7 +3245,7 @@
     "negative": "modern office, plastic, bright daylight, minimalism, neon, contemporary casual clothing, colour, bright cheerful lighting, flat even exposure, daylight comedy, pastel, low contrast, realistic shading, oil impasto, classical composition, muted colour, perspective depth, gritty texture",
     "palette": "#3A2A1A 深棕 ／ #2B3A2A 墨绿 ／ #6B1F2B 酒红 ／ #C9A227 暗金 ／ #D9CFC0 纸黄 ／ #1A1512 烛影黑"
    },
-   "card": " Novella.md"
+   "card": "cards/hololive/Shiori Novella.md"
   },
   {
    "id": "Takanashi Kiara",
@@ -3291,7 +3291,7 @@
     "negative": "visible brushwork, impasto, naturalistic shading, classical composition, painterly texture, dramatic clouds, high contrast, busy detail, urban scene, photorealistic skin, soft gradient shading, western realistic rendering, 3d render",
     "palette": "#F23D8E 荧光粉 ／ #F2C230 亮黄 ／ #29ABE2 青蓝 ／ #D32027 正红 ／ #111111 轮廓黑 ／ #FFFFFF 白"
    },
-   "card": " Kiara.md"
+   "card": "cards/hololive/Takanashi Kiara.md"
   },
   {
    "id": "Vestia Zeta",
@@ -3337,7 +3337,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render",
     "palette": "#5C5A62 银灰（发） ／ #E8E1DF 白（衬衫·裙面） ／ #A09CA1 冷灰（暗部） ／ #71748D 蓝紫（瞳·星饰） ／ #030304 线稿与黑（角色侧的黑是实色块，不是背景）"
    },
-   "card": " Zeta.md"
+   "card": "cards/hololive/Vestia Zeta.md"
   },
   {
    "id": "ロボ子さん",
@@ -3379,7 +3379,7 @@
     "negative": "realistic shading, oil impasto, classical composition, perspective depth, gritty texture, photorealistic skin, soft gradient shading, oil painting texture, western realistic rendering, 3d render",
     "palette": "#DF9DB0 亮粉（卫衣） ／ #F2DBD6 浅粉白（受光面） ／ #542E31 深棕红（发） ／ #995C65 玫瑰褐（发渐变·暗部） ／ #635355 冷灰（机械件） ／ #F8F8F8 装甲白（图上装甲受光面）"
    },
-   "card": ""
+   "card": "cards/hololive/ロボ子さん.md"
   },
   {
    "id": "一伊那尔栖",
@@ -3425,7 +3425,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, sharp realistic detail, natural lighting, warm cosy, gritty realism, historical accuracy",
     "palette": "#382E46 近黑紫（上衣·触手暗面） ／ #5D4A61 灰紫（触手受光面） ／ #976895 中紫（触手高光） ／ #FBF7F8 白（裙·袖套·羽翼） ／ #C98A3C 橙金（触手内面与吸盘环，本次取样近似值，未核实）"
    },
-   "card": ""
+   "card": "cards/hololive/一伊那尔栖.md"
   },
   {
    "id": "一条莉々華",
@@ -3471,7 +3471,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, dark shadows, tenebrism, harsh contrast, heavy impasto, monochrome, gritty, cyberpunk, muted earth tones",
     "palette": "#E8DCDE 粉白（毛绒外套·上衣） ／ #B0AFD0 淡紫（印花裙） ／ #A1979E 灰玫瑰（发中间调） ／ #D5A29E 肉粉（肤·发尾） ／ #5C5A5E 冷灰（短靴·暗部）"
    },
-   "card": ""
+   "card": "cards/hololive/一条莉々華.md"
   },
   {
    "id": "不知火フレア",
@@ -3513,7 +3513,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, gradient mesh, western perspective, photorealistic, glow, bokeh",
     "palette": "#B3C8D2 淡蓝（披肩·飘带·镶边·鞋） ／ #D69767 金橙（发） ／ #632D16 深棕（发暗部） ／ #63676A 冷灰（深色部件·布阴影） ／ #FAFAFB 白（服装；与透明底在测量上不可分）"
    },
-   "card": ""
+   "card": "cards/hololive/不知火フレア.md"
   },
   {
    "id": "兔田佩克拉",
@@ -3563,7 +3563,7 @@
     "negative": "realistic shading, oil impasto, classical composition, perspective depth, gritty texture, photorealistic skin, soft gradient shading, oil painting texture, western realistic rendering, 3d render",
     "palette": "#9DB1DA 淡蓝（发·系带·印花） ／ #91929B 冷灰（布阴影·毛绒暗部） ／ #71768E 灰紫（发中间调） ／ #1A1617 黑（过膝袜·爪指） ／ #F8F7F9 白（洋装；与透明底在测量上不可分）"
    },
-   "card": ""
+   "card": "cards/hololive/兔田佩克拉.md"
   },
   {
    "id": "华生·阿米莉亚",
@@ -3609,7 +3609,7 @@
     "negative": "organic whiplash curves, art nouveau vines, soft watercolour, rustic wood, pastoral landscape,\ngrunge texture, saturated colour, loose expressionist brushwork, modern interior, neon,\nphotorealistic skin, oil painting texture, western realistic rendering, 3d render",
     "palette": "#D5AE9B 米卡其 ／ #F4E5DA 暖白 ／ #F1BC36 金 ／ #47384C 暖紫黑 ／ #F4D69A 琥珀（原图背景色，生成时当环境光用）"
    },
-   "card": ""
+   "card": "cards/hololive/华生·阿米莉亚.md"
   },
   {
    "id": "博衣こより",
@@ -3655,7 +3655,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render,\ndark shadows, tenebrism, harsh contrast, heavy impasto, monochrome, gritty, cyberpunk, muted earth tones",
     "palette": "#F0C0D0 浅粉（发／镶边） ／ #F0F0F0 白（实验袍） ／ #303050 深蓝（裙） ／ #B0B0C0 薰衣草蓝紫 ／ #907070 暖褐（裤袜）"
    },
-   "card": ""
+   "card": "cards/hololive/博衣こより.md"
   },
   {
    "id": "噶呜·古拉",
@@ -3701,7 +3701,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, sharp realistic detail, natural lighting, warm cosy, gritty realism, historical accuracy",
     "palette": "#F8F8F8 描边与留白 ／ #387898 斗篷深蓝 ／ #286898 斗篷中蓝 ／ #F8E8D8 肤色 ／ #B84848 胸口红 ／ #07090D 透明画布抽样值"
    },
-   "card": ""
+   "card": "cards/hololive/噶呜·古拉.md"
   },
   {
    "id": "夏色まつり",
@@ -3743,7 +3743,7 @@
     "negative": "oil impasto, classical composition, perspective depth, gritty texture, visible brushwork, impasto, painterly texture",
     "palette": "#F8F8F8 白裙与白袜 ／ #F8E8D8 橙黄上衣与肤色 ／ #F8D8C8 暖肤色 ／ #685858 暖灰棕发 ／ #EAAA54 上衣橙黄 ／ #FDFCFB 背景抽样值"
    },
-   "card": ""
+   "card": "cards/hololive/夏色まつり.md"
   },
   {
    "id": "大神ミオ",
@@ -3789,7 +3789,7 @@
     "negative": "gradient mesh, oil painting texture, western perspective, photorealistic, glow, bokeh, flat even lighting, pastel colors, cartoon, minimalism, clean digital look, anime",
     "palette": "#F8F8F8 白领与白尾 ／ #282838 藏青暗部 ／ #383848 蓝紫中间调 ／ #282828 黑发与深衣 ／ #5A1D27 暗红发梢与系带 ／ #040404 透明画布抽样值"
    },
-   "card": ""
+   "card": "cards/hololive/大神ミオ.md"
   },
   {
    "id": "大空昴",
@@ -3839,7 +3839,7 @@
     "negative": "visible brushwork, impasto, naturalistic shading, classical composition, painterly texture, realistic shading, oil impasto, perspective depth, gritty texture",
     "palette": "#F8E8D8 肤色 ／ #F8F8F8 白短裤与白鞋 ／ #F8D8D8 暖红与亮部 ／ #F8E8C8 浅黄上衣 ／ #D8D858 柠檬黄条纹 ／ #010000 透明画布抽样值"
    },
-   "card": ""
+   "card": "cards/hololive/大空昴.md"
   },
   {
    "id": "姫森ルーナ",
@@ -3881,7 +3881,7 @@
     "negative": "dark shadows, tenebrism, harsh contrast, heavy impasto, monochrome, gritty, cyberpunk, muted earth tones, 3d render, photograph, gritty texture, dark horror, minimalism, neon cyberpunk",
     "palette": "#F8F8F8 白裙与披肩 ／ #E8B8D8 粉紫语义主色 ／ #B8B8E8 淡蓝紫发束 ／ #C8D8F8 偏蓝浅紫 ／ #DCA5A9 玫粉蝴蝶结 ／ #FAF9FB 背景抽样值"
    },
-   "card": ""
+   "card": "cards/hololive/姫森ルーナ.md"
   },
   {
    "id": "宝钟玛琳",
@@ -3931,7 +3931,7 @@
     "negative": "pastel colors, cartoon, cel shading, minimalism, clean digital look, anime, organic whiplash curves, art nouveau vines, soft watercolour, rustic wood, pastoral landscape, grunge texture",
     "palette": "#282828 黑披风与帽 ／ #383838 黑的中间调 ／ #580808 深红胸衣与裙 ／ #785848 棕靴与暗部 ／ #FEFDFD 背景抽样值 ／ #A05E56 暖褐与皮肤暗部"
    },
-   "card": ""
+   "card": "cards/hololive/宝钟玛琳.md"
   },
   {
    "id": "尾丸ポルカ",
@@ -3973,7 +3973,7 @@
     "negative": "tonal modelling, subtle gradients, photorealistic, soft shading, realistic shading, oil impasto, classical composition, perspective depth, gritty texture",
     "palette": "#F8E8D8 金发与皮肤 ／ #282828 黑胸衣与帽 ／ #F8F8F8 白褶边与长袜 ／ #58A8E8 蓝白条纹的蓝 ／ #F8D8C8 暖色亮部 ／ #020202 透明画布抽样值"
    },
-   "card": ""
+   "card": "cards/hololive/尾丸ポルカ.md"
   },
   {
    "id": "常夜空",
@@ -4023,7 +4023,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, organic whiplash curves, art nouveau vines, soft watercolour, rustic wood, pastoral landscape, grunge texture",
     "palette": "#383848 深蓝紫裙裾 ／ #382838 紫调暗部 ／ #F8F8F8 白立领与长袜 ／ #383838 灰格纹 ／ #4D3533 暖棕暗部 ／ #050405 透明画布抽样值"
    },
-   "card": ""
+   "card": "cards/hololive/常夜空.md"
   },
   {
    "id": "常闇トワ",
@@ -4069,7 +4069,7 @@
     "negative": "sharp realistic detail, natural lighting, warm cosy, hand-painted texture, gritty realism, historical accuracy, organic whiplash curves, art nouveau vines, soft watercolour, rustic wood, pastoral landscape, grunge texture",
     "palette": "#F8E8E8 白连帽衫与亮部 ／ #383838 帽与短裤的黑 ／ #282828 靴与袜的黑 ／ #383848 冷调深蓝紫黑 ／ #F8A8D8 粉色贴片与鞋带 ／ #F8F8F8 描边与背景抽样值"
    },
-   "card": ""
+   "card": "cards/hololive/常闇トワ.md"
   },
   {
    "id": "戌神沁音",
@@ -4119,7 +4119,7 @@
     "negative": "crisp 4k, flat vector, oversaturated, clean lines, 3d render, visible brushwork, impasto, classical composition, painterly texture",
     "palette": "#F8E898 黄色长外衣 ／ #F8F898 浅黄外衣亮部 ／ #F8F8E8 白连衣裙与白鞋 ／ #F8D888 皮肤与棕发亮部 ／ #282848 深紫内搭门襟 ／ #A72512 红色长袜与配饰"
    },
-   "card": ""
+   "card": "cards/hololive/戌神沁音.md"
   },
   {
    "id": "星街彗星",
@@ -4169,7 +4169,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, organic whiplash curves, art nouveau vines, soft watercolour, rustic wood, pastoral landscape, grunge texture",
     "palette": "#181828 深蓝长裾 ／ #282838 蓝紫星点荷叶边 ／ #282828 手套与长袜的黑 ／ #888898 格纹灰 ／ #F8E8D8 肤色与白领 ／ #282878 蓝紫点缀"
    },
-   "card": ""
+   "card": "cards/hololive/星街彗星.md"
   },
   {
    "id": "桃鈴ねね",
@@ -4211,7 +4211,7 @@
     "negative": "visible brushwork, impasto, naturalistic shading, classical composition, painterly texture, dark shadows, tenebrism, harsh contrast, heavy impasto, monochrome, gritty, cyberpunk, muted earth tones",
     "palette": "#F8B868 橙黄胸衣与裙 ／ #F8F8F8 白蕾丝与长袜 ／ #F8E8E8 白裙亮部 ／ #F8D8C8 蜜桃亮部与肤色 ／ #F8C8C8 粉色发梢与飘带 ／ #282828 黑色胸衣饰条"
    },
-   "card": ""
+   "card": "cards/hololive/桃鈴ねね.md"
   },
   {
    "id": "森美声",
@@ -4257,7 +4257,7 @@
     "negative": "bright cheerful pastel, daylight beach, sports clothing, minimalist modern interior, saturated warm,\ncasual, even ambient lighting, pastel colours, cartoon, cel shading, clean digital, comfortable composition",
     "palette": "#252227 近黑（袍／上衣） ／ #9E0830 深红（内衬／宝石） ／ #8C7163 暗金古铜（缘饰／镰刀） ／ #F2D9DC 粉（发） ／ #A4969A 灰紫（发尾）"
    },
-   "card": ""
+   "card": "cards/hololive/森美声.md"
   },
   {
    "id": "樱巫女",
@@ -4307,7 +4307,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render,\ndark shadows, tenebrism, harsh contrast, heavy impasto, monochrome, gritty, cyberpunk, muted earth tones",
     "palette": "#FFFFFF 白（振袖／袜） ／ #E79DA0 粉（裙） ／ #DA5869 红（袖口／前挡） ／ #E3A564 金（腰封／滚边） ／ #AB2855 深红（阴影与绳结）"
    },
-   "card": ""
+   "card": "cards/hololive/樱巫女.md"
   },
   {
    "id": "水宮枢",
@@ -4353,7 +4353,7 @@
     "negative": "tasteful restrained palette, symmetry, minimalism, natural materials, muted tones, classic elegance, photorealistic skin, soft gradient shading, western realistic rendering, 3d render, muddy colour",
     "palette": "#E4E7ED 冰白 ／ #A4D6E7 薄荷冰蓝 ／ #22262A 近黑 ／ #52585E 中灰 ／ #F23D8E 玫粉点缀"
    },
-   "card": ""
+   "card": "cards/hololive/水宮枢.md"
   },
   {
    "id": "沙花叉クロヱ",
@@ -4399,7 +4399,7 @@
     "negative": "bright cheerful pastel, daylight beach, sports clothing, minimalist modern interior, saturated warm, casual, even ambient lighting, pastel colours, comfortable composition, photorealistic skin, soft gradient shading, western realistic rendering, 3d render, muddy colour",
     "palette": "#575252 烟煤灰 ／ #242223 近黑 ／ #F5E5DE 米白 ／ #562C2C 暗红 ／ #D7ADA2 淡红"
    },
-   "card": ""
+   "card": "cards/hololive/沙花叉クロヱ.md"
   },
   {
    "id": "猫又小粥",
@@ -4449,7 +4449,7 @@
     "negative": "clutter, ornament, many colours, gradient, texture noise, busy pattern, decoration, drop shadow, urban, industrial, neon, plastic, harsh lighting, modern technology, concrete, high contrast, photorealistic skin, western realistic rendering, 3d render, muddy colour",
     "palette": "#F0E7F1 藕荷白 ／ #5E6064 炭灰 ／ #CBB4DB 淡紫 ／ #D36AF0 亮紫红 ／ #C9A227 金色点缀"
    },
-   "card": ""
+   "card": "cards/hololive/猫又小粥.md"
   },
   {
    "id": "獅白ぼたん",
@@ -4495,7 +4495,7 @@
     "negative": "colour, flat even exposure, daylight comedy, pastel, low contrast, photorealistic skin, soft gradient shading, western realistic rendering, 3d render, muddy colour",
     "palette": "#272129 近黑 ／ #F1E2DC 暖白 ／ #605965 烟灰 ／ #453B46 暗灰 ／ #A69899 灰粉"
    },
-   "card": ""
+   "card": "cards/hololive/獅白ぼたん.md"
   },
   {
    "id": "癒月ちょこ",
@@ -4537,7 +4537,7 @@
     "negative": "tenebrism, heavy impasto, monochrome, gritty, cyberpunk, muted earth tones, flat even lighting, minimalism, photorealistic skin, western realistic rendering, 3d render, muddy colour",
     "palette": "#F5EFF0 暖白 ／ #675554 灰褐 ／ #191633 深靛 ／ #A9264B 洋红 ／ #DBA79E 蜜桃肤色"
    },
-   "card": ""
+   "card": "cards/hololive/癒月ちょこ.md"
   },
   {
    "id": "白上フブキ",
@@ -4583,7 +4583,7 @@
     "negative": "cast shadows, gradient mesh, western perspective, photorealistic, glow, bokeh, glossy, pristine, symmetrical, plastic, new and shiny, busy composition, photorealistic skin, western realistic rendering, 3d render",
     "palette": "#F2ECEC 冷白 ／ #24222D 近黑 ／ #99D6E7 浅蓝 ／ #3B3842 灰紫 ／ #A5A3A8 冷灰 ／ #C9A227 金扣点缀"
    },
-   "card": ""
+   "card": "cards/hololive/白上フブキ.md"
   },
   {
    "id": "白银诺艾尔",
@@ -4633,7 +4633,7 @@
     "negative": "perspective distortion, realistic anatomy, 3d render, modern clothing, photographic,\nmodern office, fluorescent light, plastic, bright daylight, minimalism, neon, contemporary casual clothing",
     "palette": "#E9E1DA 米白（白袍） ／ #A39C9D 银灰（发／金属） ／ #252326 近黑（板甲） ／ #313845 深蓝（内衬／裙） ／ #C9A227 金（滚边／护膝）"
    },
-   "card": ""
+   "card": "cards/hololive/白银诺艾尔.md"
   },
   {
    "id": "百鬼あやめ",
@@ -4675,7 +4675,7 @@
     "negative": "gradient mesh, oil painting texture, western perspective, photorealistic, glow, bokeh,\neven ambient lighting, pastel colours, cartoon, clean digital, comfortable composition",
     "palette": "#30171C 黑红（和服底） ／ #9C1D30 正红（角尖／眼／发尾／流苏） ／ #591521 暗红（振袖内侧／裙） ／ #C9A227 金（滚边／铃） ／ #F8F6F6 白（发／袜／花饰）"
    },
-   "card": ""
+   "card": "cards/hololive/百鬼あやめ.md"
   },
   {
    "id": "綺々羅々ヴィヴィ",
@@ -4721,7 +4721,7 @@
     "negative": "natural lighting, warm cosy, hand-painted texture, gritty realism, historical accuracy, even ambient lighting, pastel colours, cartoon, cel shading, clean digital, comfortable composition",
     "palette": "#503090 紫罗兰主色 ／ #B090F0 薰衣草高光 ／ #F090B0 荧光粉点缀 ／ #F1E5DF 米白 ／ #101010 黑色压色"
    },
-   "card": ""
+   "card": "cards/hololive/綺々羅々ヴィヴィ.md"
   },
   {
    "id": "角巻わため",
@@ -4767,7 +4767,7 @@
     "negative": "tenebrism, heavy impasto, monochrome, gritty, cyberpunk, muted earth tones, flat even lighting, cartoon, cel shading, minimalism, clean digital look, anime",
     "palette": "#F6F2EF 奶油白 ／ #DED4A2 淡米黄 ／ #E3A1A3 柔粉 ／ #C0392B 深红点缀（hex 未核实） ／ #505050 深灰压色"
    },
-   "card": ""
+   "card": "cards/hololive/角巻わため.md"
   },
   {
    "id": "雪花ラミィ",
@@ -4809,7 +4809,7 @@
     "negative": "tenebrism, harsh contrast, heavy impasto, monochrome, gritty, cyberpunk, muted earth tones, organic detail, romantic atmosphere, soft focus",
     "palette": "#F0F0F0 雪白 ／ #A5CFED 冰蓝 ／ #576DA4 深蓝 ／ #E8C46A 暖金瞳点（hex 未核实） ／ #6B4A3A 深棕点缀（hex 未核实）"
    },
-   "card": ""
+   "card": "cards/hololive/雪花ラミィ.md"
   },
   {
    "id": "音乃瀬奏",
@@ -4855,7 +4855,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, dark shadows, tenebrism, harsh contrast, heavy impasto, monochrome, gritty, cyberpunk, muted earth tones",
     "palette": "#F0F0F0 米白 ／ #DED4A2 米黄格纹 ／ #C0392B 暖红点缀（hex 未核实） ／ #E8AC9A 蜜桃橘发梢 ／ #6B4A3A 深棕压色（hex 未核实）"
    },
-   "card": ""
+   "card": "cards/hololive/音乃瀬奏.md"
   },
   {
    "id": "風真いろは",
@@ -4901,7 +4901,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, even ambient lighting, pastel colours, cartoon, comfortable composition",
     "palette": "#649E9E 青绿强调 ／ #F0ECE7 米白大面积 ／ #151414 近黑收边 ／ #C0392B 红色小面积点缀（hex 未核实） ／ #DED4A2 内面米黄"
    },
-   "card": ""
+   "card": "cards/hololive/風真いろは.md"
   },
   {
    "id": "鷹嶺ルイ",
@@ -4947,7 +4947,7 @@
     "negative": "horizontal composition, flat modern lighting, neon, digital, minimalism, casual contemporary setting, even ambient lighting, pastel colours, cartoon, cel shading, clean digital, comfortable composition",
     "palette": "#101010 近黑主体 ／ #5F2032 深酒红斗篷 ／ #9F2D48 玫红点缀 ／ #F2ECE9 白衬衫亮面 ／ #B8B8B8 银饰（hex 未核实）"
    },
-   "card": ""
+   "card": "cards/hololive/鷹嶺ルイ.md"
   },
   {
    "id": "星川莎拉",
@@ -4997,7 +4997,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, sharp realistic detail, natural lighting, warm cosy, gritty realism, historical accuracy",
     "palette": "#FEDD62 星黄 ／ #FE7ABB 舞台粉 ／ #4CC4FE 对角蓝 ／ #F9F0EC 高光白 ／ #EFB474 羽饰橙"
    },
-   "card": ""
+   "card": "cards/にじさんじ/星川莎拉.md"
   },
   {
    "id": "月之美兔",
@@ -5047,7 +5047,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, crisp 4k, flat vector, oversaturated",
     "palette": "#2D2D2D 发黑 ／ #E7DDD4 室内米白 ／ #DCA3AD 领结红 ／ #CCC5BA 灰米 ／ #545152 暗灰"
    },
-   "card": ""
+   "card": "cards/にじさんじ/月之美兔.md"
   },
   {
    "id": "本間ひまわり",
@@ -5093,7 +5093,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render",
     "palette": "#FCF7F4 高光白 ／ #E39F91 蜜桃发 ／ #A46469 发根暗红 ／ #1D2F53 制服藏青 ／ #FBE340 官方向日葵黄（官方角色主色，非本图像素占比）"
    },
-   "card": ""
+   "card": "cards/にじさんじ/本間ひまわり.md"
   },
   {
    "id": "樋口楓",
@@ -5139,7 +5139,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, organic whiplash curves, art nouveau vines, soft watercolour, rustic wood, pastoral landscape, grunge texture",
     "palette": "#EBE8EA 剪影白 ／ #FDB41C 底色橙黄 ／ #9D9BA9 灰银发 ／ #292832 制服近黑 ／ #B9B8C6 发高光"
    },
-   "card": ""
+   "card": "cards/にじさんじ/樋口楓.md"
   },
   {
    "id": "静凛",
@@ -5185,7 +5185,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render",
     "palette": "#F9D3F5 淡粉紫底 ／ #393C58 深蓝黑发 ／ #514D68 发中调 ／ #A964B6 领结紫 ／ #2A2631 外套最暗"
    },
-   "card": ""
+   "card": "cards/にじさんじ/静凛.md"
   },
   {
    "id": "AIChannel中国绊爱",
@@ -5235,7 +5235,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, dark shadows, tenebrism, harsh contrast, heavy impasto, monochrome, gritty, cyberpunk, muted earth tones",
     "palette": "#FCF9F8 纯白背景 ／ #E697A2 蝶结粉 ／ #665451 棕发暗部 ／ #9B6263 棕发中间调 ／ #513233 深栗阴影 ／ #A69A9A 高光过渡"
    },
-   "card": ""
+   "card": "cards/企业虚拟人/AIChannel中国绊爱.md"
   },
   {
    "id": "星瞳",
@@ -5285,7 +5285,7 @@
     "negative": "tenebrism, heavy impasto, monochrome, gritty, cyberpunk, muted earth tones, flat even lighting, cartoon, cel shading, minimalism, clean digital look, anime",
     "palette": "#E05865 正红 ／ #F3DFDB 奶油白 ／ #DBA3A6 暖玫瑰背景 ／ #9D6263 暗红 ／ #67545B 深紫灰 ／ #AA909E 灰紫"
    },
-   "card": ""
+   "card": "cards/企业虚拟人/星瞳.md"
   },
   {
    "id": "米游姬",
@@ -5331,7 +5331,7 @@
     "negative": "asymmetry, mismatched sleeves, thigh straps, garter belt, heavy ornament, gothic lace, armour plating, photorealistic skin, western realistic rendering, 3d render, oily impasto, visible brushwork, soft gradient shading, muddy colour, gritty texture, dramatic chiaroscuro, busy detail, dark gloomy palette",
     "palette": "浅蓝白背景／白发／白衣 `#EEF3F8` 50.4%（最大占比项，是背景与大面积浅色，不是可当「角色主色」的单色）／围裙正蓝 `#2AAAF6` 20.6% ／亮青蓝（背景光斑与高光）`#57CEFC` 13.5% ／浅蓝过渡 `#A4D5F0` 6.8% ／中间蓝 `#52B3EE` 5.0% ／灰蓝暗部 `#94B2D1` 3.7%\n读法提醒：色温冷（−90）、主色相蓝 198°、有效色相 2.79（本批最窄）；全图几乎只在一个蓝相内做明度分层\n高光溢出 15.05% 本批最高，但来自白色发丝／外套与浅蓝白背景的裁切（伪影性质），不是画面被打爆；暗部溢出 0.00%"
    },
-   "card": ""
+   "card": "cards/企业虚拟人/米游姬.md"
   },
   {
    "id": "时雨羽衣",
@@ -5381,7 +5381,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, realistic lighting, chiaroscuro, sharp outlines, dramatic subject, photorealistic texture, dark moody",
     "palette": "#F7DFD5 米白主体 ／ #DD4D52 正红背景 ／ #EFCAB7 肤色高光 ／ #DDABA0 发中间调 ／ #A65A58 砖红暗部 ／ #B4867A 灰玫瑰过渡"
    },
-   "card": ""
+   "card": "cards/日本-独立势/时雨羽衣.md"
   },
   {
    "id": "绊爱",
@@ -5431,7 +5431,7 @@
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, gradient mesh, western perspective, photorealistic, glow, bokeh",
     "palette": "#F8F1F1 白底 ／ #E9A3AC 粉强调 ／ #685856 棕发暗部 ／ #906F6C 暖棕中间调 ／ #312729 最深阴影 ／ #A89A98 高光过渡"
    },
-   "card": ""
+   "card": "cards/日本-独立势/绊爱.md"
   },
   {
    "id": "Bao the Whale",
@@ -5475,9 +5475,9 @@
    "prompt": {
     "positive": "full-body side-profile illustration of a whale-motif virtual streamer, long bright blue hair shaped into a fin-like peak, white crescent mark on the forehead, red eyes, pale misty-blue strapless bodice with layered petal plates and white frilled edges, dark slate-blue tiered pleated skirt, thin multi-strand blue choker, large translucent blue whale-fin ribbons trailing behind scattered with white four-pointed star specks, bare legs, dark slate pointed-toe heels with ankle straps and bows, anime cel shading, japanese animation cel, flat colour fill with hard-edged shadow blocks, clean line art, hand-painted background, diffused dawn haze, horizontal bands of light, mirror water reflection, almost no cast shadow, cool pale palette, misty blue, silver grey, pale gold, high key low contrast, lithograph poster, matte paper, stained glass and wrought iron details",
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, visible brushwork, impasto, dramatic clouds, busy detail, urban scene, realistic lighting, photograph, gritty texture, minimalism, neon cyberpunk",
-    "palette": "#FDFDFD 纯白（实测最大占比 85%，其中约 74 个百分点是背景白底，**不可当角色固有色**） ／ #3996E5 明亮青蓝（发丝受光面／鳍状飘带受光面，实测 2%） ／ #4F92D2 亮青蓝（同上，实测 2%） ／ #577397 中蓝（发丝中间调，实测 6%） ／ #53606F 深蓝灰（短裙与鳍状结构阴影——「近黑」的实测值是深蓝灰，实测 3%） ／ #9A9DA5 冷灰（浅蓝灰上装／暗部过渡，实测 2%） ／ 红瞳与白色月牙／星点面积过小，未单独成档 ／ 全部为本次 `image_analysis.py` 实测值〔实测 2026-09-16〕，**不是风格层建议值**（artvault 本次四层给的建议盘是 `#F2C9A8` 肤色／`#3A5A9B` 制服蓝／`#E85D75` 高光粉／`#F2E33D` 亮黄／`#5FA85F` 背景绿／`#1A1A1A` 线稿黑，与本图实测**不一致**，本卡不采用）"
+    "palette": "#FDFDFD 纯白（实测最大占比 85%，其中约 74 个百分点是背景白底，**不可当角色固有色**） ／ #3996E5 明亮青蓝（发丝受光面／鳍状飘带受光面，实测 2%） ／ #4F92D2 亮青蓝（同上，实测 2%） ／ #577397 中蓝（发丝中间调，实测 6%） ／ #53606F 深蓝灰（短裙与鳍状结构阴影——「近黑」的实测值是深蓝灰，实测 3%） ／ #9A9DA5 冷灰（浅蓝灰上装／暗部过渡，实测 2%） ／ 红瞳与白色月牙／星点面积过小，未单独成档 ／ 全部为本次实测值〔实测 2026-09-16〕，**不是风格层建议值**（本次四层给的建议盘是 `#F2C9A8` 肤色／`#3A5A9B` 制服蓝／`#E85D75` 高光粉／`#F2E33D` 亮黄／`#5FA85F` 背景绿／`#1A1A1A` 线稿黑，与本图实测**不一致**，本卡不采用）"
    },
-   "card": " the Whale.md"
+   "card": "cards/英语圈-独立势/Bao the Whale.md"
   },
   {
    "id": "Filian",
@@ -5523,7 +5523,7 @@
     "negative": "gritty grunge texture, dark dystopian mood, minimalist restraint, natural materials, vintage analogue warmth, photorealistic skin, soft gradient shading, oil painting texture, western realistic rendering, muddy colour, dark shadows, tenebrism, heavy impasto, monochrome, gritty, cyberpunk, muted earth tones",
     "palette": "#E8E0E5 大面积浅底／白发 ／ #C9A9F2 浅紫（发夹・瞳） ／ #B5A3DA 淡紫 ／ #5B4B61 暗紫灰（睫毛） ／ #4D3A5E 深紫灰（暗部） ／ #9797A3 冷灰"
    },
-   "card": ""
+   "card": "cards/英语圈-独立势/Filian.md"
   },
   {
    "id": "Ironmouse",
@@ -5569,7 +5569,7 @@
     "negative": "realistic shading, oil impasto, classical composition, perspective depth, gritty texture, dark shadows, tenebrism, harsh contrast, heavy impasto, monochrome, gritty, cyberpunk, muted earth tones, visible brushwork, impasto, naturalistic shading, painterly texture",
     "palette": "#F99FCC 亮粉（发） ／ #E68FB3 发暗侧 ／ #AA5F90 深粉（阴影） ／ #FBE2DF 近白肤色 ／ #7B3FA0 紫（瞳） ／ #CC689E 中间粉"
    },
-   "card": ""
+   "card": "cards/英语圈-独立势/Ironmouse.md"
   },
   {
    "id": "Miori Celesta",
@@ -5613,9 +5613,9 @@
    "prompt": {
     "positive": "close-up face portrait of a cheerful virtual singer, long chestnut brown hair, olive green eyes with warm golden centres and four-pointed star highlights, pearl hairpin on one side and a small silver spiral ornament on the other, flushed cheeks, open-mouth bright smile, vivid azure blue backdrop fading to coral pink at the bottom, anime cel shading, japanese animation cel, flat colour fill with hard-edged shadow blocks, clean line art, hand-painted background",
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render",
-    "palette": "#966562 灰褐紫红（实测最大占比 41%，**是她的栗色头发而非背景**） ／ #F0DBDC 近白暖粉（肤色／脸颊高光，实测 19%） ／ #D7A7A1 暖珊瑚（肤色／发梢，实测 15%） ／ #573335 深褐（头发暗部，实测 10%） ／ #714E4E 中褐（头发中间调，实测 10%） ／ #0A65B8 钴蓝（**背景**上段，实测仅 6%，但饱和度最高） ／ 背景下段暖粉 `#E0B0BC`～`#E1C9D7`〔边框取样〕 ／ 全部为本次 `image_analysis.py` 实测值〔实测 2026-09-16〕，**不是风格层建议值**"
+    "palette": "#966562 灰褐紫红（实测最大占比 41%，**是她的栗色头发而非背景**） ／ #F0DBDC 近白暖粉（肤色／脸颊高光，实测 19%） ／ #D7A7A1 暖珊瑚（肤色／发梢，实测 15%） ／ #573335 深褐（头发暗部，实测 10%） ／ #714E4E 中褐（头发中间调，实测 10%） ／ #0A65B8 钴蓝（**背景**上段，实测仅 6%，但饱和度最高） ／ 背景下段暖粉 `#E0B0BC`～`#E1C9D7`〔边框取样〕 ／ 全部为本次实测值〔实测 2026-09-16〕，**不是风格层建议值**"
    },
-   "card": " Celesta.md"
+   "card": "cards/英语圈-独立势/Miori Celesta.md"
   },
   {
    "id": "Neuro-sama",
@@ -5661,7 +5661,7 @@
     "negative": "tasteful restrained palette, symmetry, minimalism, natural materials, muted tones, classic elegance, gritty grunge texture, dark dystopian mood, minimalist restraint, vintage analogue warmth, visible brushwork, impasto, naturalistic shading, muted earthy colour, classical composition, painterly texture",
     "palette": "#F3E7DC 米白（头饰・高光） ／ #F1D0B2 浅驼（发） ／ #A9705F 棕（发暗部） ／ #EAA39A 暖粉（脸・装饰） ／ #29D6E8 青（瞳・背景块） ／ #F23D8E 粉（背景块）"
    },
-   "card": ""
+   "card": "cards/英语圈-独立势/Neuro-sama.md"
   },
   {
    "id": "Nyanners",
@@ -5711,7 +5711,7 @@
     "negative": "visible brushwork, impasto, naturalistic shading, classical composition, painterly texture, photorealistic skin, soft gradient shading, oil painting texture, western realistic rendering, 3d render, gritty grunge texture, dark dystopian mood, minimalist restraint, natural materials, vintage analogue warmth",
     "palette": "#EEDDE4 浅底／白发 ／ #D6B9C8 粉灰（肤色阴影） ／ #CDA8B3 灰粉（猫耳内侧） ／ #AD93A0 灰紫（发暗部） ／ #664BB3 蓝紫（瞳） ／ #593AAD 深蓝紫（瞳核）"
    },
-   "card": ""
+   "card": "cards/英语圈-独立势/Nyanners.md"
   },
   {
    "id": "Projekt Melody",
@@ -5757,7 +5757,7 @@
     "negative": "daylight, pastoral, clean minimal, rural, historical costume, watercolour, pastel, flat lighting",
     "palette": "#191DDB 纯蓝（发） ／ #1B2A56 深蓝 ／ #121B32 近黑（阴影・上装） ／ #9BABDF 中蓝（过渡） ／ #6997DD 蓝（反光） ／ #00E5FF 霓虹青（瞳・轮廓光）"
    },
-   "card": " Melody.md"
+   "card": "cards/英语圈-独立势/Projekt Melody.md"
   },
   {
    "id": "Shylily",
@@ -5803,7 +5803,7 @@
     "negative": "realistic shading, oil impasto, classical composition, perspective depth, gritty texture, photorealistic skin, soft gradient shading, oil painting texture, western realistic rendering, 3d render, daylight, pastoral, clean minimal, rural, historical costume, watercolour, pastel, low contrast, flat lighting",
     "palette": "#F8DEE0 近白（浅底・肤色高光） ／ #302E57 深藏青（发・近黑） ／ #4D3357 紫灰（发过渡） ／ #1B112C 最暗（发丝阴影） ／ #CEB4E2 浅紫（额纹・须纹） ／ #7B3FA0 紫（瞳）"
    },
-   "card": ""
+   "card": "cards/英语圈-独立势/Shylily.md"
   },
   {
    "id": "Silvervale",
@@ -5849,7 +5849,7 @@
     "negative": "crisp 4k, flat vector, oversaturated, clean lines, 3d render, tenebrism, harsh contrast, heavy impasto, monochrome, gritty, muted earth tones, smooth blending, sharp outlines, studio lighting, photorealistic, hd, crisp detail, dark and moody",
     "palette": "#F2D7DC 浅底／发亮部 ／ #E1B2CE 粉紫（发主体） ／ #DE9FAF 暖粉（肤・腮红） ／ #AB8EAD 灰紫（发暗侧） ／ #A6A8CF 冷淡紫（发尾偏移） ／ #A37395 深粉紫（暗部）"
    },
-   "card": ""
+   "card": "cards/英语圈-独立势/Silvervale.md"
   },
   {
    "id": "Zentreya",
@@ -5895,7 +5895,7 @@
     "negative": "organic whiplash curves, art nouveau vines, soft watercolour, rustic wood, pastoral landscape, grunge texture, daylight, pastoral, rural, historical costume, watercolour, pastel, flat lighting, decorative flourishes, soft gradients, hand-drawn illustration, symmetry, sentimentality",
     "palette": "#151316 近黑（服装・大面积暗部） ／ #F1E6E4 银白（发・高光） ／ #9E2E33 暗红（红发） ／ #D24C4A 亮红（高光） ／ #641C27 深红（阴影） ／ #635F63 中性灰（金属过渡）"
    },
-   "card": ""
+   "card": "cards/英语圈-独立势/Zentreya.md"
   },
   {
    "id": "ISEGYE IDOL",
@@ -5939,9 +5939,9 @@
    "prompt": {
     "positive": "six member anime idol group illustration, three members in the upper row and three in the lower row, all six in identical white short sleeve t-shirts and dark navy pleated skirts, varied hair across the group including blonde, silver white, near black navy and wine red, pink gradient background with sparkles, no per-member assignment, superflat, takashi murakami, japanese pop surrealism, anime-influenced flat colour, kawaii with dark undertone, decorative repetition, oversaturated pastel and gold, sugar pink, sky blue, snow white, bright red",
     "negative": "realistic shading, oil impasto, classical composition, perspective depth, gritty texture, restraint, subtlety, muted palette, grit, authenticity, avant garde difficulty, natural materials",
-    "palette": "#F23D8E 荧光粉（artvault 建议） ／ #29ABE2 亮蓝 ／ #F2E33D 柠檬黄 ／ #111111 轮廓黑 ／ #7B3FA0 紫 ／ #FFFFFF 平涂白 ／ ⚠️ 以上**全部来自 artvault 的风格层建议值，不是客观测量值**；这张图**实测**到的团体骨架是「粉红渐变背景（`#FEA1A4` → `#FE6B8C`）+ 近白制服（`#FEE3DD`）+ 深藏青裙（`#453E4C`）」（见第八段）——**两者不是一回事**；也**不代表任何成员的实际配色**。"
+    "palette": "#F23D8E 荧光粉（流派参考建议） ／ #29ABE2 亮蓝 ／ #F2E33D 柠檬黄 ／ #111111 轮廓黑 ／ #7B3FA0 紫 ／ #FFFFFF 平涂白 ／ ⚠️ 以上**全部来自流派参考的风格层建议值，不是客观测量值**；这张图**实测**到的团体骨架是「粉红渐变背景（`#FEA1A4` → `#FE6B8C`）+ 近白制服（`#FEE3DD`）+ 深藏青裙（`#453E4C`）」（见第八段）——**两者不是一回事**；也**不代表任何成员的实际配色**。"
    },
-   "card": " IDOL.md"
+   "card": "cards/韩国-虚拟偶像/ISEGYE IDOL.md"
   },
   {
    "id": "PLAVE",
@@ -5985,9 +5985,9 @@
    "prompt": {
     "positive": "a hard edged angular orange red monogram letter mark above an angular wide geometric wordmark on pure black, russian constructivism, photomontage, bold diagonal geometry, propaganda poster design, rodchenko, industrial typography, hard geometric light patterns, radial sunburst glow, polished metallic specular highlights, primary red yellow blue with black white grey only, high purity flat fill",
     "negative": "ornament, decorative flourishes, pastel, soft gradients, hand-drawn illustration, symmetry, sentimentality, organic whiplash curves, art nouveau vines, soft watercolour, rustic wood, pastoral landscape, grunge texture, ornamentation, gradient, drop shadow, texture, bevel, glossy, hand-drawn, watercolour",
-    "palette": "#000000 底（84%，本图背景） ／ #CB3E20 橙红（标志主体） ／ #D24021 高光橙红 ／ #A7331A 暗橙红 ／ #601E0F 描边暗红 ／ #C1272D 革命红（artvault 建议的邻近替代）"
+    "palette": "#000000 底（84%，本图背景） ／ #CB3E20 橙红（标志主体） ／ #D24021 高光橙红 ／ #A7331A 暗橙红 ／ #601E0F 描边暗红 ／ #C1272D 革命红（流派参考建议的邻近替代）"
    },
-   "card": ""
+   "card": "cards/韩国-虚拟偶像/PLAVE.md"
   },
   {
    "id": "STELLIVE",
@@ -6031,9 +6031,9 @@
    "prompt": {
     "positive": "a nine member 3d first virtual idol company design skeleton, stage first, no verified character reference, individual colour and costume intentionally unspecified, neo-pop art, brand and toy aesthetics, cartoon imagery, glossy commercial finish, high art meets merchandise, hard geometric light patterns, radial sunburst glow, polished metallic specular highlights, bright blue, silver white, fluorescent green and pink, high gloss high saturation",
     "negative": "matte, muted, gritty, handcrafted imperfection, political critique, restraint, organic whiplash curves, art nouveau vines, soft watercolour, rustic wood, pastoral landscape, grunge texture, gritty grunge texture, dark dystopian mood, minimalist restraint, natural materials, vintage analogue warmth",
-    "palette": "#F23D8E 荧光粉（artvault 建议） ／ #E8C020 亮金 ／ #29D6E8 糖果蓝 ／ #FFFFFF 白 ／ #111111 黑 ／ #A8F23D 荧光绿 ／ ⚠️ 以上**全部来自 artvault 的风格层建议，不是客观测量值**；**也不代表任何艺人的实际配色**——本卡的客观测量只覆盖那枚频道图形 logo（蓝紫渐变圆盘，见第八段），**不是造型配色**。"
+    "palette": "#F23D8E 荧光粉（流派参考建议） ／ #E8C020 亮金 ／ #29D6E8 糖果蓝 ／ #FFFFFF 白 ／ #111111 黑 ／ #A8F23D 荧光绿 ／ ⚠️ 以上**全部来自流派参考的风格层建议，不是客观测量值**；**也不代表任何艺人的实际配色**——本卡的客观测量只覆盖那枚频道图形 logo（蓝紫渐变圆盘，见第八段），**不是造型配色**。"
    },
-   "card": ""
+   "card": "cards/韩国-虚拟偶像/STELLIVE.md"
   },
   {
    "id": "고세구 GOSEGU",
@@ -6077,9 +6077,9 @@
    "prompt": {
     "positive": "close-up face portrait of a cool-toned virtual idol, silver-white hair with cold blue shadows, blue eyes with white four-pointed star highlights, a blue cross-shaped hair ornament on one side, flushed cheeks, open-mouth smile, her own hand giving a thumbs-up in the foreground, dark collar just visible, flat pale cyan-blue backdrop, anime cel shading, japanese animation cel, flat colour fill with hard-edged shadow blocks, clean line art, hand-painted background",
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render",
-    "palette": "#E5DAE5 浅灰紫白（实测最大占比 68%，**银白发丝＋肤色＋背景极浅区混在一起**，不可当固有色） ／ #9DE7F9 淡青蓝（**背景**，实测 18%；四角实测 `#9AEDFF`） ／ #9D99A8 灰紫（发丝暗部，实测 5%） ／ #A9B6D1 冷蓝灰（发丝冷蓝阴影，实测 4%） ／ #605869 深灰紫（发丝最深／眼线，实测 3%） ／ #231A29 近黑深蓝（衣领／勾线，实测 2%） ／ 蓝瞳与蓝十字发饰为低占比识别色 ／ 全部为本次 `image_analysis.py` 实测值〔实测 2026-09-16〕，**不是风格层建议值**"
+    "palette": "#E5DAE5 浅灰紫白（实测最大占比 68%，**银白发丝＋肤色＋背景极浅区混在一起**，不可当固有色） ／ #9DE7F9 淡青蓝（**背景**，实测 18%；四角实测 `#9AEDFF`） ／ #9D99A8 灰紫（发丝暗部，实测 5%） ／ #A9B6D1 冷蓝灰（发丝冷蓝阴影，实测 4%） ／ #605869 深灰紫（发丝最深／眼线，实测 3%） ／ #231A29 近黑深蓝（衣领／勾线，实测 2%） ／ 蓝瞳与蓝十字发饰为低占比识别色 ／ 全部为本次实测值〔实测 2026-09-16〕，**不是风格层建议值**"
    },
-   "card": " GOSEGU.md"
+   "card": "cards/韩国-虚拟偶像/고세구 GOSEGU.md"
   },
   {
    "id": "릴파 LILPA",
@@ -6123,9 +6123,9 @@
    "prompt": {
     "positive": "close-up headshot portrait of a youthful female virtual streamer avatar, short deep navy bob hair with cobalt blue streak highlights, large bright amber-red eyes with golden gradient irises, a thin dark arc marking glimpsed at the hairline under her bangs, cheerful open smile showing one fang, white high-collar jacket with a deep navy inner collar, flat periwinkle blue backdrop, anime cel shading, japanese animation cel, flat colour fill with hard-edged shadow blocks, clean line art, hand-painted background, bright blue, silver white, fluorescent green and pink, high gloss high saturation",
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, gritty grunge texture, dark dystopian mood, minimalist restraint, natural materials, vintage analogue warmth",
-    "palette": "#FCE7E6 面部高光近白（实测 46%，角色用色） ／ #17182C 深藏青头发与暗部（实测 20%，角色用色） ／ #2B2B50 中明度藏青（实测 16%，角色用色） ／ #5756E7 长春花紫背景（实测 10%，**背景**） ／ #3044DF 背景深紫蓝（实测 4%，**背景**） ／ #E79FA1 颊唇淡粉（实测 4%，角色用色） ／ ⚠️ 以上**全部是本卡第八段的客观测量值**（`image_analysis.py`，实测 2026-09-16），不是 artvault 的建议色；「角色用色」与「背景」已按第八段的方法分离。眼睛的琥珀红渐变**未取得可分离的 hex**，本段不给，也不编。"
+    "palette": "#FCE7E6 面部高光近白（实测 46%，角色用色） ／ #17182C 深藏青头发与暗部（实测 20%，角色用色） ／ #2B2B50 中明度藏青（实测 16%，角色用色） ／ #5756E7 长春花紫背景（实测 10%，**背景**） ／ #3044DF 背景深紫蓝（实测 4%，**背景**） ／ #E79FA1 颊唇淡粉（实测 4%，角色用色） ／ ⚠️ 以上**全部是本卡第八段的客观测量值**（，实测 2026-09-16），不是流派参考的建议色；「角色用色」与「背景」已按第八段的方法分离。眼睛的琥珀红渐变**未取得可分离的 hex**，本段不给，也不编。"
    },
-   "card": " LILPA.md"
+   "card": "cards/韩国-虚拟偶像/릴파 LILPA.md"
   },
   {
    "id": "주르르 JURURU",
@@ -6169,9 +6169,9 @@
    "prompt": {
     "positive": "bust shot portrait of a playful female virtual streamer avatar, wine-plum hair with pink streak highlights, magenta-pink eyes with asymmetric eyelids, one narrowed to a dark line, gold openwork heart and blue heart hair clips, over-ear headset with pink cable and boom microphone, blue riveted fabric choker collar, blue fabric strap with a heart fastener below it, pink ribbon hair ties, closed-lip smirk, one hand raised in a peace sign, bare shoulders, solid hot pink backdrop, anime cel shading, japanese animation cel, flat colour fill with hard-edged shadow blocks, clean line art, hand-painted background, high saturation flat fills, fluorescent pink, bright cyan, strong contrast",
     "negative": "photorealistic skin, oil painting texture, western realistic rendering, 3d render, oil impasto, classical composition, perspective depth, gritty texture",
-    "palette": "#F5DFD8 面部与肩部高光肤色（实测 43%，角色用色） ／ #4D1A32 深酒红头发（实测 15%，角色用色） ／ #370E21 头发暗部（实测 14%，角色用色） ／ #F692B4 热粉色背景（实测 12%，**背景**） ／ #F96FA3 热粉色背景（实测 9%，**背景**） ／ #692C48 酒红中明度（实测 6%，角色用色） ／ ⚠️ 以上**全部是本卡第八段的客观测量值**（`image_analysis.py`，实测 2026-09-16），不是 artvault 的建议色；「角色用色」与「背景」已按第八段的方法分离——**背景两项合计约 21%，不是那张 43% 的肤色**。眼睛的品红／洋红调与颈圈的浅蓝**未取得可分离的 hex**，本段不给，也不编。"
+    "palette": "#F5DFD8 面部与肩部高光肤色（实测 43%，角色用色） ／ #4D1A32 深酒红头发（实测 15%，角色用色） ／ #370E21 头发暗部（实测 14%，角色用色） ／ #F692B4 热粉色背景（实测 12%，**背景**） ／ #F96FA3 热粉色背景（实测 9%，**背景**） ／ #692C48 酒红中明度（实测 6%，角色用色） ／ ⚠️ 以上**全部是本卡第八段的客观测量值**（，实测 2026-09-16），不是流派参考的建议色；「角色用色」与「背景」已按第八段的方法分离——**背景两项合计约 21%，不是那张 43% 的肤色**。眼睛的品红／洋红调与颈圈的浅蓝**未取得可分离的 hex**，本段不给，也不编。"
    },
-   "card": " JURURU.md"
+   "card": "cards/韩国-虚拟偶像/주르르 JURURU.md"
   }
  ]
 }

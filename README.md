@@ -19,6 +19,7 @@ cards/       132 character files, one per streamer, grouped by debut platform
 model/       the twelve factors, and a 48-point self-check for a new design
 templates/   the card format and the look-analysis format
 index/       ai-index.json — the whole atlas as one machine-readable file
+query.py     a small stdlib-only CLI over that index
 views/       two Obsidian Base files for browsing
 ```
 
@@ -92,6 +93,10 @@ The seventh and eighth sections are the reason the rest exists.
 all entries grouped by language, by platform, by status, and by factor;
 `views/factors.base` gives one view per factor, so *who was carried by F04* is a
 single click. Bases is a core plugin, nothing to install.
+
+**As a CLI.** `python3 query.py --factor F04` lists everyone carried by that
+factor; `--language`, `--platform`, `--status`, `--grep` and `--random` slice it
+other ways. Standard library only, no install, no network.
 
 **As data.** `index/ai-index.json` is the whole atlas in one file — identity,
 platform, language, status, debut, measured figures, which factors apply, and the
