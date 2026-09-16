@@ -29,6 +29,7 @@
         "measured_at": "2026-06-30"
       },
       "factors": [{"id": "F01", "name": "一秒可辨识的视觉符号"}],
+      "image": "images/立绘/宝钟玛琳.png",
       "has_look_analysis": true,
       "has_prompt": true,
       "prompt": {"positive": "…", "negative": "…", "palette": "…"},
@@ -46,7 +47,7 @@
 ## 二、命令行调取（`query.py`，只用标准库）
 
 ```bash
-cd vtuber-atlas
+cd virtual-heroine-atlas
 
 # 1) 找同类参考：靠「反差结构」起来的人
 python3 query.py --factor F04 --fields id,one_liner --format md
@@ -56,6 +57,7 @@ python3 query.py --language 韩语            # 日语 / 英语 / 中文 / 韩�
 python3 query.py --platform B站-个人势       # 按平台目录筛
 python3 query.py --affiliation 独立         # 按阵营筛
 python3 query.py --status 毕业              # 只看已毕业的（历史样本）
+python3 query.py --has-image                # 只要有图的
 python3 query.py --has-prompt               # 只要有提示词层的
 
 # 3) 取一个人的完整设计层（身份 + 形象分析 + 提示词）

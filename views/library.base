@@ -6,6 +6,7 @@ formulas:
   订阅数: 'if(YouTube订阅, number(YouTube订阅.replace("万", "").trim()) * 10000, null)'
   粉丝数: 'if(B站粉丝, number(B站粉丝.replace("万", "").trim()) * 10000, null)'
   关注数: 'if(Twitch关注, number(Twitch关注.replace("万", "").trim()) * 10000, null)'
+  有没有图: 'if(封面, "有图", "无图")'
 
 properties:
   file.name:
@@ -30,12 +31,30 @@ properties:
     displayName: 一句话
   要素:
     displayName: 要素
+  封面:
+    displayName: 封面
   formula.订阅数:
     displayName: 订阅数
   formula.粉丝数:
     displayName: 粉丝数
+  formula.有没有图:
+    displayName: 有无立绘
 
 views:
+  # 画廊：Obsidian 会把 order 的第一项做成卡片粗体标题，image 决定封面图
+  - type: cards
+    name: 画廊
+    image: 封面
+    imageFit: contain
+    imageAspectRatio: 1.4
+    cardSize: 220
+    order:
+      - file.name
+      - 平台
+      - 语言
+      - 状态
+      - 一句话
+
   - type: table
     name: 总表（按语言）
     groupBy:

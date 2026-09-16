@@ -55,6 +55,7 @@ def main():
     ap.add_argument("--language", help="语言：日语 / 英语 / 中文 / 韩语 / 印尼语")
     ap.add_argument("--status", help="活动中 / 毕业 / 停活 / 休止")
     ap.add_argument("--factor", help="要素编号，如 F04；可逗号分隔，取并集")
+    ap.add_argument("--has-image", action="store_true", help="只要有图的")
     ap.add_argument("--has-prompt", action="store_true", help="只取写了提示词的")
     ap.add_argument("--grep", help="在卡片正文里全文匹配（返回命中的 id 与命中行）")
     ap.add_argument("--card", help="取某一位的完整卡")
@@ -119,6 +120,8 @@ def main():
     if a.factor:
         want = {x.strip().upper() for x in a.factor.split(",")}
         items = [c for c in items if want & {f["id"] for f in c["factors"]}]
+    if a.has_image:
+        items = [c for c in items if c.get("image")]
     if a.has_prompt:
         items = [c for c in items if c["has_prompt"]]
 
