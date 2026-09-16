@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.inFolder("10-主播卡")
+    - file.inFolder("cards")
 
 # 改了会在下次重建时被覆盖，而重建是幂等的。
 # 要素的编号与名称来自 `00-总纲/爆火要素模型.md`。
