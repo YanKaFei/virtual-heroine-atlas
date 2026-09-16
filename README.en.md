@@ -54,7 +54,7 @@ So install Obsidian, then open this folder as a vault:
 |---|---|
 | **1** | Get Obsidian at **[obsidian.md](https://obsidian.md)** (free; Windows, macOS, Linux, iOS, Android) |
 | **2** | Open Obsidian → **Open folder as vault** → pick the repository root |
-| **3** | Go to **Settings → Core plugins → turn on "Bases"** (that powers the database views; it ships with Obsidian, nothing extra to install) |
+| **3** | **Nothing to configure** — the vault ships a `.obsidian` config with **Bases already switched on**. If your Obsidian had already created its own config for this folder, check **Settings → Core plugins** that Bases is on |
 
 Once that is done you get: `views/library.base` with four tables grouped by language,
 platform, status and factor; `views/factors.base` with one table per factor, so
@@ -69,6 +69,7 @@ view all work too.
 ## What is in here
 
 ```
+.obsidian/   preconfigured: Bases on, new attachments go to images/
 cards/       132 character cards, grouped by debut platform
 model/       the twelve factors, and a 48-point self-check for a new design
 templates/   the card format and the look-analysis format
@@ -159,7 +160,7 @@ prompt for building someone new.
 ### 1. As an Obsidian vault (recommended)
 
 Follow the three steps above. The Base files in `views/` are working database views
-already. Images, backlinks and the graph view are all live.
+already, with Bases preconfigured. Images, backlinks and the graph view are all live.
 
 ### 2. As a command line tool
 

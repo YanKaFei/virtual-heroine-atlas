@@ -4,3 +4,6 @@ Thumbs.db
 desktop.ini
 *.swp
 *~
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
