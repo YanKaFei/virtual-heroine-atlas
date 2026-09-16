@@ -1,0 +1,264 @@
+filters:
+  and:
+    - file.inFolder("10-主播卡")
+
+# 改了会在下次重建时被覆盖，而重建是幂等的。
+# 要素的编号与名称来自 `00-总纲/爆火要素模型.md`。
+
+formulas:
+  订阅数: 'if(YouTube订阅, number(YouTube订阅.replace("万", "").trim()) * 10000, null)'
+  粉丝数: 'if(B站粉丝, number(B站粉丝.replace("万", "").trim()) * 10000, null)'
+
+properties:
+  file.name:
+    displayName: 名字
+  平台:
+    displayName: 平台
+  语言:
+    displayName: 语言
+  状态:
+    displayName: 状态
+  出道:
+    displayName: 出道
+  YouTube订阅:
+    displayName: YouTube 订阅
+  B站粉丝:
+    displayName: B 站粉丝
+  要素:
+    displayName: 要素
+  一句话:
+    displayName: 一句话
+
+views:
+  - type: table
+    name: "总表（按要素）"
+    sort:
+      - property: 要素
+        direction: ASC
+      - property: formula.订阅数
+        direction: DESC
+    order:
+      - file.name
+      - 要素
+      - 平台
+      - 语言
+      - 状态
+      - YouTube订阅
+      - B站粉丝
+      - 一句话
+
+  - type: table
+    name: "F01 一秒可辨识的视觉符号"
+    filters:
+      and:
+        - '要素.contains("F01")'
+    sort:
+      - property: formula.订阅数
+        direction: DESC
+    order:
+      - file.name
+      - 平台
+      - 语言
+      - 状态
+      - 出道
+      - YouTube订阅
+      - B站粉丝
+      - 要素
+
+  - type: table
+    name: "F02 声音记忆点（Audio Logo）"
+    filters:
+      and:
+        - '要素.contains("F02")'
+    sort:
+      - property: formula.订阅数
+        direction: DESC
+    order:
+      - file.name
+      - 平台
+      - 语言
+      - 状态
+      - 出道
+      - YouTube订阅
+      - B站粉丝
+      - 要素
+
+  - type: table
+    name: "F03 可剪辑的最小内容单元"
+    filters:
+      and:
+        - '要素.contains("F03")'
+    sort:
+      - property: formula.订阅数
+        direction: DESC
+    order:
+      - file.name
+      - 平台
+      - 语言
+      - 状态
+      - 出道
+      - YouTube订阅
+      - B站粉丝
+      - 要素
+
+  - type: table
+    name: "F04 反差结构（Gap）"
+    filters:
+      and:
+        - '要素.contains("F04")'
+    sort:
+      - property: formula.订阅数
+        direction: DESC
+    order:
+      - file.name
+      - 平台
+      - 语言
+      - 状态
+      - 出道
+      - YouTube订阅
+      - B站粉丝
+      - 要素
+
+  - type: table
+    name: "F05 失控感与不可预测性"
+    filters:
+      and:
+        - '要素.contains("F05")'
+    sort:
+      - property: formula.订阅数
+        direction: DESC
+    order:
+      - file.name
+      - 平台
+      - 语言
+      - 状态
+      - 出道
+      - YouTube订阅
+      - B站粉丝
+      - 要素
+
+  - type: table
+    name: "F06 组合网络效应"
+    filters:
+      and:
+        - '要素.contains("F06")'
+    sort:
+      - property: formula.订阅数
+        direction: DESC
+    order:
+      - file.name
+      - 平台
+      - 语言
+      - 状态
+      - 出道
+      - YouTube订阅
+      - B站粉丝
+      - 要素
+
+  - type: table
+    name: "F07 二创友好的分发契约"
+    filters:
+      and:
+        - '要素.contains("F07")'
+    sort:
+      - property: formula.订阅数
+        direction: DESC
+    order:
+      - file.name
+      - 平台
+      - 语言
+      - 状态
+      - 出道
+      - YouTube订阅
+      - B站粉丝
+      - 要素
+
+  - type: table
+    name: "F08 音乐与作品化（越界资产）"
+    filters:
+      and:
+        - '要素.contains("F08")'
+    sort:
+      - property: formula.订阅数
+        direction: DESC
+    order:
+      - file.name
+      - 平台
+      - 语言
+      - 状态
+      - 出道
+      - YouTube订阅
+      - B站粉丝
+      - 要素
+
+  - type: table
+    name: "F09 长期在场的复利"
+    filters:
+      and:
+        - '要素.contains("F09")'
+    sort:
+      - property: formula.订阅数
+        direction: DESC
+    order:
+      - file.name
+      - 平台
+      - 语言
+      - 状态
+      - 出道
+      - YouTube订阅
+      - B站粉丝
+      - 要素
+
+  - type: table
+    name: "F10 脆弱性与真实性的资产化"
+    filters:
+      and:
+        - '要素.contains("F10")'
+    sort:
+      - property: formula.订阅数
+        direction: DESC
+    order:
+      - file.name
+      - 平台
+      - 语言
+      - 状态
+      - 出道
+      - YouTube订阅
+      - B站粉丝
+      - 要素
+
+  - type: table
+    name: "F11 平台算法红利的捕捉（时机）"
+    filters:
+      and:
+        - '要素.contains("F11")'
+    sort:
+      - property: formula.订阅数
+        direction: DESC
+    order:
+      - file.name
+      - 平台
+      - 语言
+      - 状态
+      - 出道
+      - YouTube订阅
+      - B站粉丝
+      - 要素
+
+  - type: table
+    name: "F12 语言位与区域套利"
+    filters:
+      and:
+        - '要素.contains("F12")'
+    sort:
+      - property: formula.订阅数
+        direction: DESC
+    order:
+      - file.name
+      - 平台
+      - 语言
+      - 状态
+      - 出道
+      - YouTube订阅
+      - B站粉丝
+      - 要素

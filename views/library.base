@@ -1,0 +1,106 @@
+filters:
+  and:
+    - file.inFolder("10-主播卡")
+
+formulas:
+  订阅数: 'if(YouTube订阅, number(YouTube订阅.replace("万", "").trim()) * 10000, null)'
+  粉丝数: 'if(B站粉丝, number(B站粉丝.replace("万", "").trim()) * 10000, null)'
+  关注数: 'if(Twitch关注, number(Twitch关注.replace("万", "").trim()) * 10000, null)'
+  有没有图: 'if(封面, "有图", "无图")'
+
+properties:
+  file.name:
+    displayName: 名字
+  平台:
+    displayName: 平台
+  语言:
+    displayName: 语言
+  阵营:
+    displayName: 阵营
+  状态:
+    displayName: 状态
+  出道:
+    displayName: 出道
+  YouTube订阅:
+    displayName: YouTube 订阅
+  B站粉丝:
+    displayName: B 站粉丝
+  Twitch关注:
+    displayName: Twitch 关注
+  一句话:
+    displayName: 一句话
+  要素:
+    displayName: 要素
+  封面:
+    displayName: 封面
+  formula.订阅数:
+    displayName: 订阅数
+  formula.粉丝数:
+    displayName: 粉丝数
+  formula.有没有图:
+    displayName: 有无立绘
+
+views:
+  - type: table
+    name: 总表（按语言）
+    groupBy:
+      property: 语言
+      direction: ASC
+    sort:
+      - property: formula.订阅数
+        direction: DESC
+      - property: formula.粉丝数
+        direction: DESC
+    order:
+      - file.name
+      - 平台
+      - 状态
+      - 出道
+      - YouTube订阅
+      - B站粉丝
+      - Twitch关注
+      - 要素
+      - 一句话
+
+  - type: table
+    name: 按平台
+    groupBy:
+      property: 平台
+      direction: ASC
+    sort:
+      - property: formula.订阅数
+        direction: DESC
+    order:
+      - file.name
+      - 语言
+      - 状态
+      - 出道
+      - YouTube订阅
+      - B站粉丝
+      - Twitch关注
+      - 要素
+
+  - type: table
+    name: 按状态
+    groupBy:
+      property: 状态
+      direction: ASC
+    sort:
+      - property: 出道
+        direction: ASC
+    order:
+      - file.name
+      - 平台
+      - 语言
+      - 出道
+      - 状态
+
+  - type: table
+    name: 素材完整度
+    groupBy:
+      property: formula.有没有图
+      direction: DESC
+    order:
+      - file.name
+      - 平台
+      - 语言
