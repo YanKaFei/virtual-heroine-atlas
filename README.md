@@ -15,7 +15,7 @@
 [![DeepSeek Harness](https://img.shields.io/badge/DeepSeek-Harness-4D6BFE)](https://github.com/topics/deepseek-harness)
 ![usage](https://img.shields.io/badge/usage-%E4%BB%85%E9%99%90%E6%B5%8B%E8%AF%95-000000)
 
-[**中文**](README.md) · [English](README.en.md) · [日本語](README.ja.md)
+[**中文**](README.md) · [English](README.en.md) · [한국어](README.ko.md) · [日本語](README.ja.md) · [Français](README.fr.md)
 
 </div>
 
