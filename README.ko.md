@@ -6,11 +6,6 @@ Obsidian으로 열 수 있고, CLI로 조회하며, DeepSeek Harness에서检索
 
 [中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · **한국어** · [Français](README.fr.md)
 
-<p align="center">
-  <sub>DSH ecosystem: <a href="https://github.com/YanKaFei/Costume-Director-Vault-Starter">Costume Director</a> · <a href="https://github.com/YanKaFei/art-aesthetic-vault">Art Aesthetic Vault</a> · <a href="https://github.com/YanKaFei/ascii-h3-director">ASCII H3 Director</a> · <a href="https://github.com/YanKaFei/2d-limited-mv-studio">2D Limited MV Studio</a> · <a href="https://github.com/YanKaFei/virtual-heroine-atlas">Virtual Heroine Atlas</a> · <a href="https://github.com/YanKaFei/smartstaff-ai-deepseek-plugin">SmartStaff AI</a></sub>
-</p>
-
-
 ## 무엇을 담고 있나
 
 - 132명의 버추얼 스트리머/버추얼 캐릭터
