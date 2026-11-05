@@ -1,5 +1,7 @@
 # Virtual Heroine Atlas
 
+<p align="center" data-ecosystem-nav="1"><sub><a href="https://github.com/YanKaFei/Costume-Director-Vault-Starter">Costume</a> · <a href="https://github.com/YanKaFei/art-aesthetic-vault">Art</a> · <a href="https://github.com/YanKaFei/ascii-cinema-engine">ASCII Cinema</a> · <a href="https://github.com/YanKaFei/ascii-h3-director">ASCII H3</a> · <a href="https://github.com/YanKaFei/2d-limited-mv-studio">2D MV</a> · <a href="https://github.com/YanKaFei/virtual-heroine-atlas">Virtual Heroine</a></sub></p>
+
 **132명의 여성 버추얼 캐릭터가 왜 뜨고, 어떻게 디자인되었는지를 기록한 연구 아틀라스.**
 
 Obsidian으로 열 수 있고, CLI로 조회하며, DeepSeek Harness에서检索할 수 있습니다.
@@ -33,7 +35,6 @@ Obsidian에서 카드와 이미지를 열고, CLI/DSH에서 검색합니다.
 - [日本語](README.ja.md)
 - [Français](README.fr.md)
 
-<p align="center" data-ecosystem-nav="1"><sub><a href="https://github.com/YanKaFei/Costume-Director-Vault-Starter">Costume</a> · <a href="https://github.com/YanKaFei/art-aesthetic-vault">Art</a> · <a href="https://github.com/YanKaFei/ascii-cinema-engine">ASCII Cinema</a> · <a href="https://github.com/YanKaFei/ascii-h3-director">ASCII H3</a> · <a href="https://github.com/YanKaFei/2d-limited-mv-studio">2D MV</a> · <a href="https://github.com/YanKaFei/virtual-heroine-atlas">Virtual Heroine</a></sub></p>
 
 
 ## DSH ecosystem
